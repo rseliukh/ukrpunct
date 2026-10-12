@@ -1,0 +1,14 @@
+token	punct_tag	cap_tag
+Такими	O	CAP
+каталізаторами	O	O
+є	O	O
+ферменти	COMMA	O
+які	O	O
+в	O	O
+багато	O	O
+разів	O	O
+пришвидшують	O	O
+хімічні	O	O
+реакції	O	O
+в	O	O
+організмі	PERIOD	O

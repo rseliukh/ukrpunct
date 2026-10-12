@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Але	O	CAP
+як	O	O
+із	O	O
+нічого	O	O
+могло	O	O
+виникнути	O	O
+щось	COMMA	O
+дядьку	QUESTION	O

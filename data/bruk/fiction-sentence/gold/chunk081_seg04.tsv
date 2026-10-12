@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Хто	O	CAP
+пильнує	O	O
+дітей	QUESTION	O

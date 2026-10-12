@@ -1,0 +1,14 @@
+token	punct_tag	cap_tag
+Йде	O	CAP
+це	O	O
+від	O	O
+француза	O	O
+Монтеск'є	COMMA	CAP
+творця	O	O
+Духу	O	CAP
+законів	O	O
+і	O	O
+теорії	O	O
+про	O	O
+розподіл	O	O
+влад	PERIOD	O

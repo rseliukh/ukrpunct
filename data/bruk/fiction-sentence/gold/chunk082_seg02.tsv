@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Хто	O	CAP
+ж	O	O
+на	O	O
+річку	O	O
+в	O	O
+намисті	O	O
+ходить	QUESTION	O

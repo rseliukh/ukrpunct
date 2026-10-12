@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Гадаєш	COMMA	CAP
+ти	O	O
+один	O	O
+такий	QUESTION	O

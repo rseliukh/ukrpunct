@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Але	O	CAP
+ми	O	O
+дійсно	O	O
+переконані	COMMA	O
+що	O	O
+це	O	O
+допоможе	O	O
+таким	O	O
+чином	O	O
+виконувати	O	O
+їх	QUESTION	O

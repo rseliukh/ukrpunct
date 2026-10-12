@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Бо	O	CAP
+що	O	O
+ж	O	O
+шкодувати	QUESTION	O

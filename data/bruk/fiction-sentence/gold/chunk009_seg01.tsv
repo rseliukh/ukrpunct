@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Колеса	O	CAP
+залишали	O	O
+на	O	O
+дорозі	O	O
+глибокі	O	O
+колії	PERIOD	O

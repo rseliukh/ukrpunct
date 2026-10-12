@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+у	O	O
+такій	O	O
+ситуації	O	O
+необхідно	O	O
+робити	O	O
+Україні	QUESTION	CAP

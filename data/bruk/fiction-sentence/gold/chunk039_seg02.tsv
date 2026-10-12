@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Знову	O	CAP
+пухнути	O	O
+зібрався	QUESTION	O

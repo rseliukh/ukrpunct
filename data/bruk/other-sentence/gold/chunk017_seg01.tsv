@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+Як	O	CAP
+повідомила	O	O
+прес-служба	O	O
+відомства	COMMA	O
+справу	O	O
+порушено	O	O
+за	O	O
+зверненням	O	O
+народних	O	O
+депутатів	PERIOD	O

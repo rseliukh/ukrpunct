@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Та	O	CAP
+пороху	O	O
+надовго	O	O
+не	O	O
+вистачало	PERIOD	O

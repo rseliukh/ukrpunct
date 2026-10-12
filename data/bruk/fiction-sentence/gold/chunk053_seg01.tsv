@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+Такі	O	CAP
+порядки	O	O
+завів	O	O
+тамтешній	O	O
+пан	COMMA	O
+і	O	O
+всі	O	O
+довкола	O	O
+вважали	O	O
+його	O	O
+мудрим	COMMA	O
+чесним	O	O
+та	O	O
+благородним	PERIOD	O

@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+боліло	O	O
+колись	O	O
+у	O	O
+Бога	O	CAP
+серце	QUESTION	O

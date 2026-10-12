@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Україна	O	CAP
+не	O	O
+виняток	COMMA	O
+а	O	O
+лише	O	O
+підтвердження	O	O
+цього	O	O
+правила	PERIOD	O

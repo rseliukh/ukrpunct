@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Бо	O	CAP
+є	O	O
+час	O	O
+кидати	O	O
+каміння	COMMA	O
+і	O	O
+є	O	O
+навпаки	PERIOD	O

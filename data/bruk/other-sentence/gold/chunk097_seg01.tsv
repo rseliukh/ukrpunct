@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+І	O	CAP
+хоч	O	O
+у	O	O
+статті	O	O
+Чи	O	CAP
+є	O	O
+в	O	O
+Україні	O	CAP
+преса	QUESTION	O

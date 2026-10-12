@@ -1,0 +1,16 @@
+token	punct_tag	cap_tag
+Усю	O	CAP
+ніч	COMMA	O
+до	O	O
+ранку	O	O
+лежав	O	O
+бідний	O	O
+Адамек	O	CAP
+під	O	O
+кущем	COMMA	O
+поворухнутися	O	O
+не	O	O
+міг	COMMA	O
+до	O	O
+смерті	O	O
+готувався	PERIOD	O

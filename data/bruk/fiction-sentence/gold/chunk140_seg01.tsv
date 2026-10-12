@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Напевно	COMMA	CAP
+саме	O	O
+такий	O	O
+човен	O	O
+тато	O	O
+й	O	O
+хотів	O	O
+би	O	O
+мати	PERIOD	O

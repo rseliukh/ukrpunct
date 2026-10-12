@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Найбільша	O	CAP
+невідповідність	O	O
+голосувань	O	O
+журі	O	O
+та	O	O
+глядачів	O	O
+для	O	O
+представника	O	O
+Польщі	O	CAP
+та	O	O
+Ізраїлю	PERIOD	CAP

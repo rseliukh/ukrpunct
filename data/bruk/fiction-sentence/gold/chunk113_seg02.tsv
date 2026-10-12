@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+могли	O	O
+зробити	O	O
+проти	O	O
+Америки	O	CAP
+і	O	O
+світу	O	O
+японці	O	O
+зі	O	O
+своїми	O	O
+самурайськими	O	O
+мечами	QUESTION	O

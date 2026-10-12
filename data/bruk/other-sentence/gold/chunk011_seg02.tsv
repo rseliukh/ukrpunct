@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Українська	O	CAP
+мова	O	O
+у	O	O
+плані	O	O
+іронії	O	O
+й	O	O
+гумору	O	O
+взагалі	O	O
+майже	O	O
+не	O	O
+знає	O	O
+півтонів	PERIOD	O

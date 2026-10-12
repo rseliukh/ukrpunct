@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Чому	O	CAP
+варто	O	O
+споживати	O	O
+сертифіковану	O	O
+органічну	O	O
+рибу	O	O
+та	O	O
+морепродукти	QUESTION	O

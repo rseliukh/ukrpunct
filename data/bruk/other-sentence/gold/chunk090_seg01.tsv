@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Так	O	CAP
+хто	O	O
+ж	O	O
+і	O	O
+навіщо	O	O
+не	O	O
+пожалів	O	O
+для	O	O
+неї	O	O
+чорної	O	O
+фарби	QUESTION	O

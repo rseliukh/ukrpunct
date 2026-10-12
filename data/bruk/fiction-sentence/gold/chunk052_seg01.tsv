@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Чигав	O	CAP
+на	O	O
+жертву	O	O
+усередині	PERIOD	O

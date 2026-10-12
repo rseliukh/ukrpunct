@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Холодна	O	CAP
+така	O	O
+пустка	PERIOD	O

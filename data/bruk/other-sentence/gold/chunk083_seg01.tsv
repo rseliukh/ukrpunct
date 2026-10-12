@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Існує	O	CAP
+також	O	O
+декілька	O	O
+способів	O	O
+отримати	O	O
+чорне	O	O
+золото	PERIOD	O

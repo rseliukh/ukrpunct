@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+І	O	CAP
+як	O	O
+же	O	O
+можна	O	O
+виконати	O	O
+заповідь	COMMA	O
+коли	O	O
+немає	O	O
+правильного	O	O
+розуміння	QUESTION	O

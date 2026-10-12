@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+А	O	CAP
+дитяча	O	O
+правда	O	O
+завжди	O	O
+і	O	O
+світло	COMMA	O
+і	O	O
+світла	PERIOD	O

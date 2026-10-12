@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Очевидно	COMMA	CAP
+що	O	O
+для	O	O
+журі	O	O
+не	O	O
+вона	O	O
+була	O	O
+основним	O	O
+критерієм	PERIOD	O

@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+А	O	CAP
+йому	O	O
+тоді	O	O
+ледь	O	O
+перевалило	O	O
+за	O	O
+тридцять	PERIOD	O

@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+Якщо	O	CAP
+м'ясо	O	O
+нашприцьоване	O	O
+поліфосфатами	COMMA	O
+то	O	O
+виглядатиме	O	O
+воно	O	O
+так	COMMA	O
+ніби	O	O
+здулося	PERIOD	O

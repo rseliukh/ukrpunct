@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Прокинулася	O	CAP
+мама	COMMA	O
+заспішила	PERIOD	O

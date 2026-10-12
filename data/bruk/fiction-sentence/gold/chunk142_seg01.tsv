@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+І	O	CAP
+так	O	O
+теж	O	O
+трапляється	COMMA	O
+хоча	O	O
+й	O	O
+дуже	O	O
+рідко	PERIOD	O

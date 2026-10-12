@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Існують	O	CAP
+технологічні	O	O
+та	O	O
+кормові	O	O
+методи	O	O
+боротьби	O	O
+з	O	O
+тепловим	O	O
+стресом	PERIOD	O

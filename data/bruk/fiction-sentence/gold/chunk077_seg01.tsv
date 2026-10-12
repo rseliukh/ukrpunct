@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+У	O	CAP
+неї	O	O
+б	O	O
+розпрямилися	O	O
+плечі	COMMA	O
+глибше	O	O
+задихали	O	O
+б	O	O
+груди	COMMA	O
+вона	O	O
+гордо	O	O
+підняла	O	O
+б	O	O
+голову	PERIOD	O

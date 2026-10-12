@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Куди	O	CAP
+поділася	O	O
+тривога	QUESTION	O

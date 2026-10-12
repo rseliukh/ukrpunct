@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Звідки	O	CAP
+то	O	O
+в	O	O
+неї	O	O
+такі	O	O
+дива	O	O
+виходять	QUESTION	O

@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Це	O	CAP
+аромати	O	O
+ночі	O	O
+і	O	O
+зоряного	O	O
+неба	PERIOD	O

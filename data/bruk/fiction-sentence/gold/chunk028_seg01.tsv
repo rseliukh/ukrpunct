@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Він	O	CAP
+не	O	O
+впізнавав	O	O
+міста	PERIOD	O

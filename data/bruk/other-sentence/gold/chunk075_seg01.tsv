@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+означають	O	O
+Її	O	CAP
+холодна	O	O
+краса	COMMA	O
+її	O	O
+жорстока	O	O
+лаконічність	COMMA	O
+її	O	O
+чорно-біла	O	O
+суворість	QUESTION	O

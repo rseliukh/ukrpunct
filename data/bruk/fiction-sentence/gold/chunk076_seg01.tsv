@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Боже	COMMA	CAP
+чому	O	O
+людина	O	O
+така	O	O
+самотня	O	O
+й	O	O
+беззахисна	QUESTION	O

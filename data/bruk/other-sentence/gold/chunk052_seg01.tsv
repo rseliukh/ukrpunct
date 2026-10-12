@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+До	O	CAP
+двотижневого	O	O
+віку	O	O
+перепілки	O	O
+в	O	O
+раціон	O	O
+можна	O	O
+додавати	O	O
+близько	O	O
+трьох	O	O
+процентів	O	O
+жирів	PERIOD	O

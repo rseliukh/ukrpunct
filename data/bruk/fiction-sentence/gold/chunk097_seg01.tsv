@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Здається	COMMA	CAP
+ми	O	O
+на	O	O
+місці	PERIOD	O

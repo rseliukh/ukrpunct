@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Чому	O	CAP
+я	O	O
+змогла	O	O
+не	O	O
+спокуситися	O	O
+іншими	O	O
+чоловіками	QUESTION	O

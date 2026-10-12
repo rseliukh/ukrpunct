@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Ми	O	CAP
+всі	O	O
+якісь	O	O
+забиті	O	O
+налякані	O	O
+істоти	COMMA	O
+чи	O	O
+як	QUESTION	O

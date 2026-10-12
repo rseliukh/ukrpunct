@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Які	O	CAP
+слід	O	O
+вжити	O	O
+при	O	O
+цьому	O	O
+заходи	O	O
+допомоги	QUESTION	O

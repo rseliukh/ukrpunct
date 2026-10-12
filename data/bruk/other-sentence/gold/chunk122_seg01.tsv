@@ -1,0 +1,14 @@
+token	punct_tag	cap_tag
+Можна	O	CAP
+не	O	O
+лише	O	O
+використовувати	O	O
+стандартні	O	O
+типи	COMMA	O
+наперед	O	O
+задані	O	O
+мовою	COMMA	O
+а	O	O
+й	O	O
+створювати	O	O
+власні	PERIOD	O

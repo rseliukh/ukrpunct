@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Навіть	O	CAP
+якщо	O	O
+йдеться	O	O
+про	O	O
+майже	O	O
+неперекладні	O	O
+тексти	PERIOD	O

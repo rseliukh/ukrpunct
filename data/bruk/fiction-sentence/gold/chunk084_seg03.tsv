@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Мама	O	CAP
+тут	O	O
+ні	O	O
+до	O	O
+чого	PERIOD	O

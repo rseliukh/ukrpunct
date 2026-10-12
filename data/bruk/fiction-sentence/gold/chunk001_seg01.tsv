@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Можливо	COMMA	CAP
+вона	O	O
+взагалі	O	O
+намарно	O	O
+лякає	O	O
+себе	O	O
+уявними	O	O
+жахіттями	O	O
+і	O	O
+варто	O	O
+повернутися	O	O
+додому	QUESTION	O

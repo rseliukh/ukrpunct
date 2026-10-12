@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Тоді	O	CAP
+їй	O	O
+здавалося	COMMA	O
+що	O	O
+ніщо	O	O
+не	O	O
+може	O	O
+порушити	O	O
+узвичаєний	O	O
+ритм	O	O
+життя	PERIOD	O

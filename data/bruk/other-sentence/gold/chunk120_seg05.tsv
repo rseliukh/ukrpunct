@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Чому	O	CAP
+радянське	O	O
+керівництво	O	O
+розпочало	O	O
+українізацію	QUESTION	O

@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+не	O	O
+здається	O	O
+Богові	COMMA	CAP
+що	O	O
+бабуня	O	O
+плете	O	O
+забагато	O	O
+серветок	QUESTION	O

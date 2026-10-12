@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Розчахнула	O	CAP
+повіки	COMMA	O
+наче	O	O
+крила	COMMA	O
+широко-широко	COMMA	O
+і	O	O
+втупилась	O	O
+у	O	O
+стелю	PERIOD	O

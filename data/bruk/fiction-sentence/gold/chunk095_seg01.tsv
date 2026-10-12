@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Тобі	O	CAP
+не	O	O
+погано	QUESTION	O

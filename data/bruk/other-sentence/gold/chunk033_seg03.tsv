@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Яку	O	CAP
+річ	O	O
+купити	QUESTION	O

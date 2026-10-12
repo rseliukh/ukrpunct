@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Мені	O	CAP
+було	O	O
+сім	O	O
+років	COMMA	O
+коли	O	O
+приснився	O	O
+перший	O	O
+в	O	O
+житті	O	O
+кольоровий	O	O
+сон	PERIOD	O

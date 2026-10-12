@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+Він	O	CAP
+скинув	O	O
+би	O	O
+свій	O	O
+добротний	O	O
+одяг	O	O
+і	O	O
+нап'ялив	O	O
+жебрацьке	O	O
+рам'я	PERIOD	O

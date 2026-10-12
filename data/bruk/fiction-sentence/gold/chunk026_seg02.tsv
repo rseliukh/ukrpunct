@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Привели	O	CAP
+колгоспного	O	O
+ветеринара	PERIOD	O

@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+отримував	O	O
+задоволення	O	O
+від	O	O
+такого	O	O
+добровільного	O	O
+усамітнення	QUESTION	O

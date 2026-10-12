@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Як	O	CAP
+у	O	O
+повній	O	O
+темряві	O	O
+кажани	O	O
+та	O	O
+дельфіни	O	O
+знаходять	O	O
+здобич	QUESTION	O

@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Він	O	CAP
+ходив	O	O
+би	O	O
+київськими	O	O
+вулицями	COMMA	O
+вигукуючи	O	O
+непристойності	PERIOD	O

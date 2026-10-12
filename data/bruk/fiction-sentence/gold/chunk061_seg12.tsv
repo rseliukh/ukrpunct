@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Які	O	CAP
+цукерки	O	O
+Бог	O	CAP
+любить	QUESTION	O

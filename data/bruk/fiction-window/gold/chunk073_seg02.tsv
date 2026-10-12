@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Поки	O	CAP
+з	O	O
+мене	O	O
+знімали	O	O
+делію	O	O
+і	O	O
+рукавиці	COMMA	O
+я	O	O
+вирішував	COMMA	O
+куди	O	O
+мені	O	O
+йти	PERIOD	O

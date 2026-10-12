@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+ж	O	O
+тут	O	O
+поганого	COMMA	O
+можуть	O	O
+запитати	QUESTION	O

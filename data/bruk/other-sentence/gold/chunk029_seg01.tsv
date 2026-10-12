@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Якою	O	CAP
+насправді	O	O
+є	O	O
+наша	O	O
+релігійність	QUESTION	O

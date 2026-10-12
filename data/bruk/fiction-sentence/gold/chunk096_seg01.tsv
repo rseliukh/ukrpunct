@@ -1,0 +1,14 @@
+token	punct_tag	cap_tag
+Вважайте	COMMA	CAP
+що	O	O
+вам	O	O
+пощастило	COMMA	O
+на	O	O
+святій	O	O
+землі	O	O
+смерть	O	O
+приймете	COMMA	O
+під	O	O
+стінами	O	O
+давнього	O	O
+монастиря	PERIOD	O

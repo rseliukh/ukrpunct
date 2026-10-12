@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Боялися	COMMA	CAP
+що	O	O
+їх	O	O
+затопчуть	PERIOD	O

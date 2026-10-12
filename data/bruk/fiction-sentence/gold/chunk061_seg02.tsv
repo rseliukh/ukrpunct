@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+А	O	CAP
+може	COMMA	O
+Бог	O	CAP
+міг	O	O
+би	O	O
+подарувати	O	O
+мені	O	O
+велосипед	QUESTION	O

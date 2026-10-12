@@ -1,0 +1,14 @@
+token	punct_tag	cap_tag
+Може	COMMA	CAP
+то	O	O
+рай	O	O
+сьогодні	O	O
+відкрився	O	O
+Іванці	COMMA	CAP
+а	O	O
+вона	O	O
+не	O	O
+зрозуміла	O	O
+або	O	O
+не	O	O
+розпізнала	QUESTION	O

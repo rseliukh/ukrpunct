@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+ж	O	O
+таке	O	O
+музичний	O	O
+звук	QUESTION	O

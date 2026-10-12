@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Уряд	COMMA	CAP
+намагаючись	O	O
+вилучити	O	O
+аграрну	O	O
+продукцію	O	O
+у	O	O
+селян	COMMA	O
+започаткував	O	O
+політику	O	O
+ножиць	O	O
+цін	PERIOD	O

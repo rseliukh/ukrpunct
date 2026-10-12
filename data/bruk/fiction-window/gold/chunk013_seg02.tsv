@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+Таким	O	CAP
+тоді	O	O
+воно	O	O
+робилось	O	O
+далеким	O	O
+від	O	O
+усього	COMMA	O
+що	O	O
+його	O	O
+оточувало	PERIOD	O

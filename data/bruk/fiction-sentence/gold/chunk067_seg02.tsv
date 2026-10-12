@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Янка	O	CAP
+куйовдила	O	O
+йому	O	O
+волосся	PERIOD	O

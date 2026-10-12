@@ -1,0 +1,14 @@
+token	punct_tag	cap_tag
+Відтак	O	CAP
+надійшов	O	O
+той	O	O
+фатальний	O	O
+день	COMMA	O
+який	O	O
+і	O	O
+додав	O	O
+до	O	O
+його	O	O
+історії	O	O
+належний	O	O
+кінець	PERIOD	O

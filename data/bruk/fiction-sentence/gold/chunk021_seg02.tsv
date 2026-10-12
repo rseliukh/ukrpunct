@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+ж	O	O
+робити	COMMA	O
+коли	O	O
+життя	O	O
+таке	QUESTION	O

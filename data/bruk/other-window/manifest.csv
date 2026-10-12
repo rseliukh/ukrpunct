@@ -1,0 +1,264 @@
+segment_id,chunk_id,category,source,mode,n_segments_in_chunk,n_words,over_200_words,end_class
+chunk001_seg01,1,A (Преса (Press)),A_Holos_Ukrayiny_Neyizhmak_Babusi_vidtvoriuvaly_vesillia_razom_z_onukamy_2018.txt,window,2,182,False,PERIOD
+chunk001_seg02,1,A (Преса (Press)),A_Holos_Ukrayiny_Neyizhmak_Babusi_vidtvoriuvaly_vesillia_razom_z_onukamy_2018.txt,window,2,69,False,PERIOD
+chunk002_seg01,2,A (Преса (Press)),A_Detektor_Media_Bakhteyev_Peredvyborcha_reklama_vichna_i_neznyshchenna_2018.txt,window,2,194,False,QUESTION
+chunk002_seg02,2,A (Преса (Press)),A_Detektor_Media_Bakhteyev_Peredvyborcha_reklama_vichna_i_neznyshchenna_2018.txt,window,2,11,False,PERIOD
+chunk003_seg01,3,A (Преса (Press)),A_Slobidskyi_krai_Ushakov_Produktovyi_koshyk_kharkivian_dorozhchaie_2017.txt,window,2,176,False,PERIOD
+chunk003_seg02,3,A (Преса (Press)),A_Slobidskyi_krai_Ushakov_Produktovyi_koshyk_kharkivian_dorozhchaie_2017.txt,window,2,48,False,PERIOD
+chunk004_seg01,4,A (Преса (Press)),A_zhitomir.info_Yak_zhytomyrski_nardepy.txt,window,2,193,False,PERIOD
+chunk004_seg02,4,A (Преса (Press)),A_zhitomir.info_Yak_zhytomyrski_nardepy.txt,window,2,18,False,PERIOD
+chunk005_seg01,5,A (Преса (Press)),A_Ye_Zhuzha_Podilske_vesillya_pochynayetsya_svatannyam_zakinchuyetsya_popravynamy_2013.txt,window,2,189,False,PERIOD
+chunk005_seg02,5,A (Преса (Press)),A_Ye_Zhuzha_Podilske_vesillya_pochynayetsya_svatannyam_zakinchuyetsya_popravynamy_2013.txt,window,2,64,False,PERIOD
+chunk006_seg01,6,A (Преса (Press)),A_vesti.dp.ua_Dyva_ta_kazky_Kanivskykh_hir_2015.txt,window,2,184,False,PERIOD
+chunk006_seg02,6,A (Преса (Press)),A_vesti.dp.ua_Dyva_ta_kazky_Kanivskykh_hir_2015.txt,window,2,81,False,PERIOD
+chunk007_seg01,7,A (Преса (Press)),A_Kyivskyi_universytet_Nash_spilnyi_proekt_2014.txt,window,1,192,False,PERIOD
+chunk008_seg01,8,A (Преса (Press)),A_Dilove_slovo_Sorokovyi_Vidmina_mokrykh_pechatok_plus_chy_minus_dlia_biznesu_2017.txt,window,2,177,False,PERIOD
+chunk008_seg02,8,A (Преса (Press)),A_Dilove_slovo_Sorokovyi_Vidmina_mokrykh_pechatok_plus_chy_minus_dlia_biznesu_2017.txt,window,2,91,False,PERIOD
+chunk009_seg01,9,A (Преса (Press)),A_Detektor_Media_Bakhteyev_Prorosiyska_propahanda_i_cherhove_kaposne_pytannia_2018.txt,window,2,190,False,PERIOD
+chunk009_seg02,9,A (Преса (Press)),A_Detektor_Media_Bakhteyev_Prorosiyska_propahanda_i_cherhove_kaposne_pytannia_2018.txt,window,2,80,False,PERIOD
+chunk010_seg01,10,A (Преса (Press)),A_Khreshchatyk_Labunska_Z_vohnem_zharty_pohani_2014.txt,window,1,195,False,PERIOD
+chunk011_seg01,11,A (Преса (Press)),A_theinsider.ua_Kiyanovska_2_Ya_ne_poet_2014.txt,window,2,182,False,PERIOD
+chunk011_seg02,11,A (Преса (Press)),A_theinsider.ua_Kiyanovska_2_Ya_ne_poet_2014.txt,window,2,65,False,PERIOD
+chunk012_seg01,12,A (Преса (Press)),A_regionews_sumy_V_Ukrayini_vidmovliayutsia_vid_paperovych_medychnyh_kartok_2013.txt,window,2,177,False,PERIOD
+chunk012_seg02,12,A (Преса (Press)),A_regionews_sumy_V_Ukrayini_vidmovliayutsia_vid_paperovych_medychnyh_kartok_2013.txt,window,2,53,False,PERIOD
+chunk013_seg01,13,A (Преса (Press)),A_selo.pl.ua_Shcho_obyednuye_dvokh_naybilshykh_heniyiv_2014.txt,window,2,194,False,PERIOD
+chunk013_seg02,13,A (Преса (Press)),A_selo.pl.ua_Shcho_obyednuye_dvokh_naybilshykh_heniyiv_2014.txt,window,2,54,False,PERIOD
+chunk014_seg01,14,A (Преса (Press)),A_zorya.poltava.ua_Boyko_Yakshcho_u_batka_vpravni_ruky_2014.txt,window,2,200,False,PERIOD
+chunk014_seg02,14,A (Преса (Press)),A_zorya.poltava.ua_Boyko_Yakshcho_u_batka_vpravni_ruky_2014.txt,window,2,58,False,PERIOD
+chunk015_seg01,15,A (Преса (Press)),A_Novyi_den_Piddubniak_Ne_zabuvaty_2016.txt,window,2,185,False,PERIOD
+chunk015_seg02,15,A (Преса (Press)),A_Novyi_den_Piddubniak_Ne_zabuvaty_2016.txt,window,2,76,False,QUESTION
+chunk016_seg01,16,A (Преса (Press)),A_Versii_Burkut_Ukraini_zahrozhuie_rozpad_2012.txt,window,2,185,False,PERIOD
+chunk016_seg02,16,A (Преса (Press)),A_Versii_Burkut_Ukraini_zahrozhuie_rozpad_2012.txt,window,2,126,False,PERIOD
+chunk017_seg01,17,A (Преса (Press)),A_ekspres-onlain_Sekretni_spravy_prokurora_2015.txt,window,2,195,False,PERIOD
+chunk017_seg02,17,A (Преса (Press)),A_ekspres-onlain_Sekretni_spravy_prokurora_2015.txt,window,2,103,False,PERIOD
+chunk018_seg01,18,A (Преса (Press)),A_UZHGOROD.in_Uzhhorodtsi_pryvezly_peremohu_z_Pikuyany_2013.txt,window,2,184,False,PERIOD
+chunk018_seg02,18,A (Преса (Press)),A_UZHGOROD.in_Uzhhorodtsi_pryvezly_peremohu_z_Pikuyany_2013.txt,window,2,28,False,PERIOD
+chunk019_seg01,19,A (Преса (Press)),A_zbruc.eu_Dzhamala_peremohla_u_konkursi_Eurovision_2016.txt,window,2,190,False,PERIOD
+chunk019_seg02,19,A (Преса (Press)),A_zbruc.eu_Dzhamala_peremohla_u_konkursi_Eurovision_2016.txt,window,2,11,False,PERIOD
+chunk020_seg01,20,B (Релігія (Religion)),B_Kana_Pist_po-suchasnomu_2_2013.txt,window,2,186,False,PERIOD
+chunk020_seg02,20,B (Релігія (Religion)),B_Kana_Pist_po-suchasnomu_2_2013.txt,window,2,46,False,PERIOD
+chunk021_seg01,21,B (Релігія (Religion)),B_Bendyk_Misiolohiia_2_2013.txt,window,2,177,False,PERIOD
+chunk021_seg02,21,B (Релігія (Religion)),B_Bendyk_Misiolohiia_2_2013.txt,window,2,111,False,PERIOD
+chunk022_seg01,22,B (Релігія (Religion)),B_Gudziak_Den_nezalezhnosti_2016.txt,window,2,192,False,PERIOD
+chunk022_seg02,22,B (Релігія (Religion)),B_Gudziak_Den_nezalezhnosti_2016.txt,window,2,93,False,PERIOD
+chunk023_seg01,23,B (Релігія (Religion)),B_Zvernennia_Tradytsiinyh_Ukr_Tserkov_2011.txt,window,2,193,False,PERIOD
+chunk023_seg02,23,B (Релігія (Religion)),B_Zvernennia_Tradytsiinyh_Ukr_Tserkov_2011.txt,window,2,80,False,PERIOD
+chunk024_seg01,24,B (Релігія (Religion)),B_Tarasenko_Maty_i_znaty_zapovidi_2014.txt,window,2,189,False,PERIOD
+chunk024_seg02,24,B (Релігія (Religion)),B_Tarasenko_Maty_i_znaty_zapovidi_2014.txt,window,2,119,False,PERIOD
+chunk025_seg01,25,B (Релігія (Religion)),B_Istoria_ta_dukhovne_znachennia_sviata_vkhodu_2017.txt,window,2,173,False,PERIOD
+chunk025_seg02,25,B (Релігія (Religion)),B_Istoria_ta_dukhovne_znachennia_sviata_vkhodu_2017.txt,window,2,111,False,PERIOD
+chunk026_seg01,26,B (Релігія (Religion)),B_Kana_Pist_po-suchasnomu_1_2013.txt,window,2,194,False,PERIOD
+chunk026_seg02,26,B (Релігія (Religion)),B_Kana_Pist_po-suchasnomu_1_2013.txt,window,2,93,False,PERIOD
+chunk027_seg01,27,B (Релігія (Religion)),B_Khaustov_495_rokiv_vid_pochatku_liuteranskoi_reformatsii_reformatsiia_tryvaie_1_2012.txt,window,2,200,False,PERIOD
+chunk027_seg02,27,B (Релігія (Religion)),B_Khaustov_495_rokiv_vid_pochatku_liuteranskoi_reformatsii_reformatsiia_tryvaie_1_2012.txt,window,2,98,False,PERIOD
+chunk028_seg01,28,B (Релігія (Religion)),B_Kana_Nadiia_voskresinnia_2013.txt,window,2,197,False,PERIOD
+chunk028_seg02,28,B (Релігія (Religion)),B_Kana_Nadiia_voskresinnia_2013.txt,window,2,94,False,PERIOD
+chunk029_seg01,29,B (Релігія (Religion)),B_Huzar_Naskilky_ti_2017.txt,window,2,184,False,PERIOD
+chunk029_seg02,29,B (Релігія (Religion)),B_Huzar_Naskilky_ti_2017.txt,window,2,112,False,PERIOD
+chunk030_seg01,30,B (Релігія (Religion)),B_Hrebeniuk_Odyn_mozhe_bahato_2012.txt,window,2,186,False,PERIOD
+chunk030_seg02,30,B (Релігія (Religion)),B_Hrebeniuk_Odyn_mozhe_bahato_2012.txt,window,2,102,False,PERIOD
+chunk031_seg01,31,B (Релігія (Religion)),B_Marusiak_Pro_Pokaiannia_2013.txt,window,2,176,False,PERIOD
+chunk031_seg02,31,B (Релігія (Religion)),B_Marusiak_Pro_Pokaiannia_2013.txt,window,2,100,False,PERIOD
+chunk032_seg01,32,B (Релігія (Religion)),B_Bendyk_Misiolohiia_1_2013.txt,window,2,184,False,PERIOD
+chunk032_seg02,32,B (Релігія (Religion)),B_Bendyk_Misiolohiia_1_2013.txt,window,2,88,False,PERIOD
+chunk033_seg01,33,B (Релігія (Religion)),B_Kana_Ucheteliu_blahyi_2013.txt,window,2,200,False,PERIOD
+chunk033_seg02,33,B (Релігія (Religion)),B_Kana_Ucheteliu_blahyi_2013.txt,window,2,96,False,PERIOD
+chunk034_seg01,34,B (Релігія (Religion)),B_Khaustov_495_rokiv_vid_pochatku_liuteranskoi_reformatsii_reformatsiia_tryvaie_2_2012.txt,window,2,168,False,PERIOD
+chunk034_seg02,34,B (Релігія (Religion)),B_Khaustov_495_rokiv_vid_pochatku_liuteranskoi_reformatsii_reformatsiia_tryvaie_2_2012.txt,window,2,124,False,PERIOD
+chunk035_seg01,35,B (Релігія (Religion)),B_AXIOS_3_2015.txt,window,2,171,False,PERIOD
+chunk035_seg02,35,B (Релігія (Religion)),B_AXIOS_3_2015.txt,window,2,114,False,PERIOD
+chunk036_seg01,36,B (Релігія (Religion)),B_AXIOS_1_2015.txt,window,2,195,False,PERIOD
+chunk036_seg02,36,B (Релігія (Religion)),B_AXIOS_1_2015.txt,window,2,102,False,PERIOD
+chunk037_seg01,37,B (Релігія (Religion)),B_Zvernennia_Biuro_UHKTS_z_pytan_ekolohii_2013.txt,window,2,162,False,PERIOD
+chunk037_seg02,37,B (Релігія (Religion)),B_Zvernennia_Biuro_UHKTS_z_pytan_ekolohii_2013.txt,window,2,146,False,PERIOD
+chunk038_seg01,38,B (Релігія (Religion)),B_AXIOS_2_2015.txt,window,2,199,False,PERIOD
+chunk038_seg02,38,B (Релігія (Religion)),B_AXIOS_2_2015.txt,window,2,96,False,PERIOD
+chunk039_seg01,39,C (Побут і хобі (Skills & Hobbies)),C_Nashe_ptakhivnytstvo_Teplovyi_stres_2018.txt,window,2,170,False,PERIOD
+chunk039_seg02,39,C (Побут і хобі (Skills & Hobbies)),C_Nashe_ptakhivnytstvo_Teplovyi_stres_2018.txt,window,2,137,False,PERIOD
+chunk040_seg01,40,C (Побут і хобі (Skills & Hobbies)),C_Karavanska_Stylna_knyzhka_dlia_panianky_2015.txt,window,2,198,False,PERIOD
+chunk040_seg02,40,C (Побут і хобі (Skills & Hobbies)),C_Karavanska_Stylna_knyzhka_dlia_panianky_2015.txt,window,2,57,False,PERIOD
+chunk041_seg01,41,C (Побут і хобі (Skills & Hobbies)),C_Vynnychuk_Halytska_kukhnya_8_2014.txt,window,2,192,False,PERIOD
+chunk041_seg02,41,C (Побут і хобі (Skills & Hobbies)),C_Vynnychuk_Halytska_kukhnya_8_2014.txt,window,2,20,False,PERIOD
+chunk042_seg01,42,C (Побут і хобі (Skills & Hobbies)),C_Nashe_ptakhivnytstvo_Ni_volohiy_pidstyltsi_2018.txt,window,2,186,False,PERIOD
+chunk042_seg02,42,C (Побут і хобі (Skills & Hobbies)),C_Nashe_ptakhivnytstvo_Ni_volohiy_pidstyltsi_2018.txt,window,2,131,False,PERIOD
+chunk043_seg01,43,C (Побут і хобі (Skills & Hobbies)),C_Lisovyi_i_Myslyvskyi_zhurnal_Yanenko_Oy_moroz_moroz_2012.txt,window,2,189,False,PERIOD
+chunk043_seg02,43,C (Побут і хобі (Skills & Hobbies)),C_Lisovyi_i_Myslyvskyi_zhurnal_Yanenko_Oy_moroz_moroz_2012.txt,window,2,130,False,PERIOD
+chunk044_seg01,44,C (Побут і хобі (Skills & Hobbies)),C_Lisovyi_i_Myslyvskyi_zhurnal_Vyprytskyi_Hratsiya_ukrayinskoho_lisu_2_2012.txt,window,2,179,False,PERIOD
+chunk044_seg02,44,C (Побут і хобі (Skills & Hobbies)),C_Lisovyi_i_Myslyvskyi_zhurnal_Vyprytskyi_Hratsiya_ukrayinskoho_lisu_2_2012.txt,window,2,49,False,PERIOD
+chunk045_seg01,45,C (Побут і хобі (Skills & Hobbies)),C_Pani_vchytelka_Zhyla_Tanets_zhyvota_2010.txt,window,2,200,False,PERIOD
+chunk045_seg02,45,C (Побут і хобі (Skills & Hobbies)),C_Pani_vchytelka_Zhyla_Tanets_zhyvota_2010.txt,window,2,87,False,PERIOD
+chunk046_seg01,46,C (Побут і хобі (Skills & Hobbies)),C_National_Geographic_Ukrayina_Panova_Donbas_ta_holuby_2_2013.txt,window,2,198,False,PERIOD
+chunk046_seg02,46,C (Побут і хобі (Skills & Hobbies)),C_National_Geographic_Ukrayina_Panova_Donbas_ta_holuby_2_2013.txt,window,2,107,False,PERIOD
+chunk047_seg01,47,C (Побут і хобі (Skills & Hobbies)),C_Lisovyi_i_Myslyvskyi_zhurnal_Rekovets_Zahrada_v_Prazi_2012.txt,window,2,199,False,PERIOD
+chunk047_seg02,47,C (Побут і хобі (Skills & Hobbies)),C_Lisovyi_i_Myslyvskyi_zhurnal_Rekovets_Zahrada_v_Prazi_2012.txt,window,2,100,False,PERIOD
+chunk048_seg01,48,C (Побут і хобі (Skills & Hobbies)),C_Kvity_Ukrayiny_Klymenko_Dukhmianyy_sad_to_spravzhnia_krykhta_rayu_2013.txt,window,2,197,False,PERIOD
+chunk048_seg02,48,C (Побут і хобі (Skills & Hobbies)),C_Kvity_Ukrayiny_Klymenko_Dukhmianyy_sad_to_spravzhnia_krykhta_rayu_2013.txt,window,2,121,False,PERIOD
+chunk049_seg01,49,C (Побут і хобі (Skills & Hobbies)),C_National_Geographic_Ukrayina_Voytenko_Misto_maystriv_1_2013.txt,window,2,197,False,PERIOD
+chunk049_seg02,49,C (Побут і хобі (Skills & Hobbies)),C_National_Geographic_Ukrayina_Voytenko_Misto_maystriv_1_2013.txt,window,2,79,False,PERIOD
+chunk050_seg01,50,C (Побут і хобі (Skills & Hobbies)),C_Plantator_Ketskalo_Morkva_z_rozsady_2018.txt,window,2,189,False,PERIOD
+chunk050_seg02,50,C (Побут і хобі (Skills & Hobbies)),C_Plantator_Ketskalo_Morkva_z_rozsady_2018.txt,window,2,81,False,PERIOD
+chunk051_seg01,51,C (Побут і хобі (Skills & Hobbies)),C_Balandiukh_Virusy_hrypu_sunut_zi_skhodu_2016.txt,window,2,181,False,PERIOD
+chunk051_seg02,51,C (Побут і хобі (Skills & Hobbies)),C_Balandiukh_Virusy_hrypu_sunut_zi_skhodu_2016.txt,window,2,105,False,PERIOD
+chunk052_seg01,52,C (Побут і хобі (Skills & Hobbies)),C_Nashe_ptakhivnytstvo_Krayevska_Ratsion_perepilky_2018.txt,window,2,190,False,PERIOD
+chunk052_seg02,52,C (Побут і хобі (Skills & Hobbies)),C_Nashe_ptakhivnytstvo_Krayevska_Ratsion_perepilky_2018.txt,window,2,111,False,PERIOD
+chunk053_seg01,53,C (Побут і хобі (Skills & Hobbies)),C_Poradnytsia_Zayanchkovska_Yak_z_dopomohoyu_herbariyu_zrobyty_interyer_nepovtornym_2018.txt,window,2,197,False,PERIOD
+chunk053_seg02,53,C (Побут і хобі (Skills & Hobbies)),C_Poradnytsia_Zayanchkovska_Yak_z_dopomohoyu_herbariyu_zrobyty_interyer_nepovtornym_2018.txt,window,2,105,False,PERIOD
+chunk054_seg01,54,C (Побут і хобі (Skills & Hobbies)),C_Plantator_Sydorka_Zhyvlennia_kavuniv_2018.txt,window,2,196,False,PERIOD
+chunk054_seg02,54,C (Побут і хобі (Skills & Hobbies)),C_Plantator_Sydorka_Zhyvlennia_kavuniv_2018.txt,window,2,100,False,PERIOD
+chunk055_seg01,55,C (Побут і хобі (Skills & Hobbies)),C_Organic_UA_Ryba_do_stolu_orhanichnyi_shliakh_2011.txt,window,2,178,False,PERIOD
+chunk055_seg02,55,C (Побут і хобі (Skills & Hobbies)),C_Organic_UA_Ryba_do_stolu_orhanichnyi_shliakh_2011.txt,window,2,116,False,PERIOD
+chunk056_seg01,56,C (Побут і хобі (Skills & Hobbies)),C_Poradnytsia_Kostiuchenko_Hospodyniam_na_zamitku_shchob_sup_u_speku_ne_zipsuvavsia_2018.txt,window,2,182,False,PERIOD
+chunk056_seg02,56,C (Побут і хобі (Skills & Hobbies)),C_Poradnytsia_Kostiuchenko_Hospodyniam_na_zamitku_shchob_sup_u_speku_ne_zipsuvavsia_2018.txt,window,2,120,False,PERIOD
+chunk057_seg01,57,C (Побут і хобі (Skills & Hobbies)),C_Kvity_Ukrayiny_Rubtsova_Chyzhankova_Vesna_v_sadu_troyand_2_2013.txt,window,2,191,False,PERIOD
+chunk057_seg02,57,C (Побут і хобі (Skills & Hobbies)),C_Kvity_Ukrayiny_Rubtsova_Chyzhankova_Vesna_v_sadu_troyand_2_2013.txt,window,2,55,False,PERIOD
+chunk058_seg01,58,"D (Есе, біографії, мемуари (Essays/Biography))",D_Lysheha_Potsilunok_Elly_Fitsdzherald_2_2015.txt,window,2,197,False,PERIOD
+chunk058_seg02,58,"D (Есе, біографії, мемуари (Essays/Biography))",D_Lysheha_Potsilunok_Elly_Fitsdzherald_2_2015.txt,window,2,91,False,PERIOD
+chunk059_seg01,59,"D (Есе, біографії, мемуари (Essays/Biography))",D_Protsiuk_Ta_shcho_zalyshylasia_v_sertsi_2014.txt,window,2,191,False,PERIOD
+chunk059_seg02,59,"D (Есе, біографії, мемуари (Essays/Biography))",D_Protsiuk_Ta_shcho_zalyshylasia_v_sertsi_2014.txt,window,2,66,False,PERIOD
+chunk060_seg01,60,"D (Есе, біографії, мемуари (Essays/Biography))",D_Protsiuk_Istoria_odnoho_peretvorennia_2014.txt,window,2,182,False,PERIOD
+chunk060_seg02,60,"D (Есе, біографії, мемуари (Essays/Biography))",D_Protsiuk_Istoria_odnoho_peretvorennia_2014.txt,window,2,92,False,PERIOD
+chunk061_seg01,61,"D (Есе, біографії, мемуари (Essays/Biography))",D_Yermolenko_Daleki_blyzki_1_2015.txt,window,2,171,False,PERIOD
+chunk061_seg02,61,"D (Есе, біографії, мемуари (Essays/Biography))",D_Yermolenko_Daleki_blyzki_1_2015.txt,window,2,105,False,PERIOD
+chunk062_seg01,62,"D (Есе, біографії, мемуари (Essays/Biography))",D_LitAktsent_Panchenko_Potriben_Natsionalnyi_Panteon_2017.txt,window,2,195,False,PERIOD
+chunk062_seg02,62,"D (Есе, біографії, мемуари (Essays/Biography))",D_LitAktsent_Panchenko_Potriben_Natsionalnyi_Panteon_2017.txt,window,2,88,False,PERIOD
+chunk063_seg01,63,"D (Есе, біографії, мемуари (Essays/Biography))",D_Tereshchuk_Dumanska_Romanyshyn_Lesiv_Sheptytskyy_vid_A_do_Ya_1_2015.txt,window,2,191,False,PERIOD
+chunk063_seg02,63,"D (Есе, біографії, мемуари (Essays/Biography))",D_Tereshchuk_Dumanska_Romanyshyn_Lesiv_Sheptytskyy_vid_A_do_Ya_1_2015.txt,window,2,53,False,PERIOD
+chunk064_seg01,64,"D (Есе, біографії, мемуари (Essays/Biography))",D_Nash_Format_vydav_knyhu_Ayn_Rend_2015.txt,window,2,185,False,PERIOD
+chunk064_seg02,64,"D (Есе, біографії, мемуари (Essays/Biography))",D_Nash_Format_vydav_knyhu_Ayn_Rend_2015.txt,window,2,84,False,PERIOD
+chunk065_seg01,65,"D (Есе, біографії, мемуари (Essays/Biography))",D_Liubka_Spaty_z_zhinkamy_1_2015.txt,window,2,198,False,PERIOD
+chunk065_seg02,65,"D (Есе, біографії, мемуари (Essays/Biography))",D_Liubka_Spaty_z_zhinkamy_1_2015.txt,window,2,74,False,PERIOD
+chunk066_seg01,66,"D (Есе, біографії, мемуари (Essays/Biography))",D_Vykhovanets_Rozmovlyaymo_ukrayinskoyu_2_2012.txt,window,2,190,False,PERIOD
+chunk066_seg02,66,"D (Есе, біографії, мемуари (Essays/Biography))",D_Vykhovanets_Rozmovlyaymo_ukrayinskoyu_2_2012.txt,window,2,119,False,PERIOD
+chunk067_seg01,67,"D (Есе, біографії, мемуари (Essays/Biography))",D_Zherukha_Oksana_Lyniv_Ukrainka_na_choli_krashchykh_orkestriv_Yevropy_2017.txt,window,2,190,False,PERIOD
+chunk067_seg02,67,"D (Есе, біографії, мемуари (Essays/Biography))",D_Zherukha_Oksana_Lyniv_Ukrainka_na_choli_krashchykh_orkestriv_Yevropy_2017.txt,window,2,100,False,PERIOD
+chunk068_seg01,68,"D (Есе, біографії, мемуари (Essays/Biography))",D_Sverstiuk_Hohol_2013.txt,window,2,190,False,PERIOD
+chunk068_seg02,68,"D (Есе, біографії, мемуари (Essays/Biography))",D_Sverstiuk_Hohol_2013.txt,window,2,113,False,PERIOD
+chunk069_seg01,69,"D (Есе, біографії, мемуари (Essays/Biography))",D_Humeniuk_Maidan_Takhrir_1_2015.txt,window,2,185,False,PERIOD
+chunk069_seg02,69,"D (Есе, біографії, мемуари (Essays/Biography))",D_Humeniuk_Maidan_Takhrir_1_2015.txt,window,2,107,False,PERIOD
+chunk070_seg01,70,"D (Есе, біографії, мемуари (Essays/Biography))",D_Vdovychenko_36_i_6_kotiv_3_2015.txt,window,2,200,False,PERIOD
+chunk070_seg02,70,"D (Есе, біографії, мемуари (Essays/Biography))",D_Vdovychenko_36_i_6_kotiv_3_2015.txt,window,2,28,False,PERIOD
+chunk071_seg01,71,"D (Есе, біографії, мемуари (Essays/Biography))",D_Tereshchuk_Dumanska_Romanyshyn_Lesiv_Sheptytskyy_vid_A_do_Ya_2_2015.txt,window,2,200,False,PERIOD
+chunk071_seg02,71,"D (Есе, біографії, мемуари (Essays/Biography))",D_Tereshchuk_Dumanska_Romanyshyn_Lesiv_Sheptytskyy_vid_A_do_Ya_2_2015.txt,window,2,66,False,PERIOD
+chunk072_seg01,72,"D (Есе, біографії, мемуари (Essays/Biography))",D_Protsiuk_Mizh_zabuttiam_i_pamiattiu_2014.txt,window,2,190,False,PERIOD
+chunk072_seg02,72,"D (Есе, біографії, мемуари (Essays/Biography))",D_Protsiuk_Mizh_zabuttiam_i_pamiattiu_2014.txt,window,2,97,False,PERIOD
+chunk073_seg01,73,"D (Есе, біографії, мемуари (Essays/Biography))",D_Kunsht_Chernov_Muzyka_na_dotyk_2016.txt,window,2,192,False,PERIOD
+chunk073_seg02,73,"D (Есе, біографії, мемуари (Essays/Biography))",D_Kunsht_Chernov_Muzyka_na_dotyk_2016.txt,window,2,94,False,PERIOD
+chunk074_seg01,74,"D (Есе, біографії, мемуари (Essays/Biography))",D_Zabuzhko_I_znov_ia_vlizaiu_v_tank_2_2016.txt,window,2,186,False,PERIOD
+chunk074_seg02,74,"D (Есе, біографії, мемуари (Essays/Biography))",D_Zabuzhko_I_znov_ia_vlizaiu_v_tank_2_2016.txt,window,2,73,False,PERIOD
+chunk075_seg01,75,"D (Есе, біографії, мемуари (Essays/Biography))",D_Yermolenko_Zyma_yak_metafora_2018.txt,window,2,191,False,PERIOD
+chunk075_seg02,75,"D (Есе, біографії, мемуари (Essays/Biography))",D_Yermolenko_Zyma_yak_metafora_2018.txt,window,2,107,False,PERIOD
+chunk076_seg01,76,"D (Есе, біографії, мемуари (Essays/Biography))",D_Vykhovanets_Rozmovlyaymo_ukrayinskoyu_1_2012.txt,window,2,187,False,PERIOD
+chunk076_seg02,76,"D (Есе, біографії, мемуари (Essays/Biography))",D_Vykhovanets_Rozmovlyaymo_ukrayinskoyu_1_2012.txt,window,2,118,False,PERIOD
+chunk077_seg01,77,F (Науково-популярні тексти (Popular Science)),F_Hrytsak_26_y_PROTSENT_abo_Yak_podolaty_istoriiu_3_2014.txt,window,2,176,False,PERIOD
+chunk077_seg02,77,F (Науково-популярні тексти (Popular Science)),F_Hrytsak_26_y_PROTSENT_abo_Yak_podolaty_istoriiu_3_2014.txt,window,2,123,False,PERIOD
+chunk078_seg01,78,F (Науково-популярні тексти (Popular Science)),F_Istoriya_dlia_dopytlyvykh_Zvierieva_Palkyi_ukrayinskyi_Lomonosov_2013.txt,window,2,197,False,PERIOD
+chunk078_seg02,78,F (Науково-популярні тексти (Popular Science)),F_Istoriya_dlia_dopytlyvykh_Zvierieva_Palkyi_ukrayinskyi_Lomonosov_2013.txt,window,2,113,False,PERIOD
+chunk079_seg01,79,F (Науково-популярні тексти (Popular Science)),F_Shcherbachenko_Yak_ne_zablukaty_v_Pavutyni_1_2013.txt,window,2,188,False,PERIOD
+chunk079_seg02,79,F (Науково-популярні тексти (Popular Science)),F_Shcherbachenko_Yak_ne_zablukaty_v_Pavutyni_1_2013.txt,window,2,124,False,PERIOD
+chunk080_seg01,80,F (Науково-популярні тексти (Popular Science)),F_Sanina_Himnastyka_mozku_1_2014.txt,window,2,192,False,PERIOD
+chunk080_seg02,80,F (Науково-популярні тексти (Popular Science)),F_Sanina_Himnastyka_mozku_1_2014.txt,window,2,103,False,PERIOD
+chunk081_seg01,81,F (Науково-популярні тексти (Popular Science)),F_Heohrafiya_dlia_dopytlyvykh_Sieriebriannikova_Liodovykovyi_period_Ne_strashno_2011.txt,window,2,198,False,PERIOD
+chunk081_seg02,81,F (Науково-популярні тексти (Popular Science)),F_Heohrafiya_dlia_dopytlyvykh_Sieriebriannikova_Liodovykovyi_period_Ne_strashno_2011.txt,window,2,103,False,PERIOD
+chunk082_seg01,82,F (Науково-популярні тексти (Popular Science)),F_Biolohiya_dlia_dopytlyvykh_Zadorozhnyi_Tayemnytsia_zahybeli_volokhatykh_sloniv_2012.txt,window,2,199,False,PERIOD
+chunk082_seg02,82,F (Науково-популярні тексти (Popular Science)),F_Biolohiya_dlia_dopytlyvykh_Zadorozhnyi_Tayemnytsia_zahybeli_volokhatykh_sloniv_2012.txt,window,2,104,False,PERIOD
+chunk083_seg01,83,F (Науково-популярні тексти (Popular Science)),F_Kolosok_Nikishova_Vpiznay_element_za_osoblyvymy_prykmetamy_2015.txt,window,2,197,False,PERIOD
+chunk083_seg02,83,F (Науково-популярні тексти (Popular Science)),F_Kolosok_Nikishova_Vpiznay_element_za_osoblyvymy_prykmetamy_2015.txt,window,2,104,False,PERIOD
+chunk084_seg01,84,F (Науково-популярні тексти (Popular Science)),F_Heohrafiya_dlia_dopytlyvykh_Pavliuk_Pershyi_druhyi_milyadnyi_2012.txt,window,2,188,False,PERIOD
+chunk084_seg02,84,F (Науково-популярні тексти (Popular Science)),F_Heohrafiya_dlia_dopytlyvykh_Pavliuk_Pershyi_druhyi_milyadnyi_2012.txt,window,2,105,False,PERIOD
+chunk085_seg01,85,F (Науково-популярні тексти (Popular Science)),F_Biolohiya_dlia_dopytlyvykh_Ohuz_Tyhrenia_u_nebezpetsi_2013.txt,window,2,200,False,PERIOD
+chunk085_seg02,85,F (Науково-популярні тексти (Popular Science)),F_Biolohiya_dlia_dopytlyvykh_Ohuz_Tyhrenia_u_nebezpetsi_2013.txt,window,2,103,False,PERIOD
+chunk086_seg01,86,F (Науково-популярні тексти (Popular Science)),F_Smal_Yulya_Tsikava_khimiya_Zhyttyepys_rechovyn_3_2016.txt,window,2,186,False,PERIOD
+chunk086_seg02,86,F (Науково-популярні тексти (Popular Science)),F_Smal_Yulya_Tsikava_khimiya_Zhyttyepys_rechovyn_3_2016.txt,window,2,111,False,PERIOD
+chunk087_seg01,87,F (Науково-популярні тексти (Popular Science)),F_Khudozhnyky_ukrayinskoho_avanhradu_Hra_dlya_ditey_2_2015.txt,window,2,184,False,PERIOD
+chunk087_seg02,87,F (Науково-популярні тексти (Popular Science)),F_Khudozhnyky_ukrayinskoho_avanhradu_Hra_dlya_ditey_2_2015.txt,window,2,103,False,PERIOD
+chunk088_seg01,88,F (Науково-популярні тексти (Popular Science)),F_Fizyka_dlia_dopytlyvykh_Zahvozkina_Scho_take_zvuk_2013.txt,window,2,187,False,PERIOD
+chunk088_seg02,88,F (Науково-популярні тексти (Popular Science)),F_Fizyka_dlia_dopytlyvykh_Zahvozkina_Scho_take_zvuk_2013.txt,window,2,54,False,PERIOD
+chunk089_seg01,89,F (Науково-популярні тексти (Popular Science)),F_Kolosok_Bida_Shcho_take_teplota_2015.txt,window,2,189,False,PERIOD
+chunk089_seg02,89,F (Науково-популярні тексти (Popular Science)),F_Kolosok_Bida_Shcho_take_teplota_2015.txt,window,2,102,False,PERIOD
+chunk090_seg01,90,F (Науково-популярні тексти (Popular Science)),F_Istoriya_dlia_dopytlyvykh_Siadro_Zahadky_pravytelky_Sofii_2013.txt,window,2,192,False,PERIOD
+chunk090_seg02,90,F (Науково-популярні тексти (Popular Science)),F_Istoriya_dlia_dopytlyvykh_Siadro_Zahadky_pravytelky_Sofii_2013.txt,window,2,100,False,PERIOD
+chunk091_seg01,91,F (Науково-популярні тексти (Popular Science)),F_Sukhomlyn_Hryby_Ukrayiny_3_2013.txt,window,2,198,False,PERIOD
+chunk091_seg02,91,F (Науково-популярні тексти (Popular Science)),F_Sukhomlyn_Hryby_Ukrayiny_3_2013.txt,window,2,75,False,PERIOD
+chunk092_seg01,92,F (Науково-популярні тексти (Popular Science)),F_Kolosok_Romaniuk_U_kruhoverti_2015.txt,window,2,198,False,PERIOD
+chunk092_seg02,92,F (Науково-популярні тексти (Popular Science)),F_Kolosok_Romaniuk_U_kruhoverti_2015.txt,window,2,92,False,PERIOD
+chunk093_seg01,93,F (Науково-популярні тексти (Popular Science)),F_Bedenko_Knyha_yunoho_biznesmena_1_2014.txt,window,2,199,False,PERIOD
+chunk093_seg02,93,F (Науково-популярні тексти (Popular Science)),F_Bedenko_Knyha_yunoho_biznesmena_1_2014.txt,window,2,95,False,PERIOD
+chunk094_seg01,94,F (Науково-популярні тексти (Popular Science)),F_Smal_Yulya_Tsikava_khimiya_Zhyttyepys_rechovyn_2_2016.txt,window,2,200,False,PERIOD
+chunk094_seg02,94,F (Науково-популярні тексти (Popular Science)),F_Smal_Yulya_Tsikava_khimiya_Zhyttyepys_rechovyn_2_2016.txt,window,2,53,False,PERIOD
+chunk095_seg01,95,F (Науково-популярні тексти (Popular Science)),F_Sanina_Himnastyka_mozku_2_2014.txt,window,2,177,False,PERIOD
+chunk095_seg02,95,F (Науково-популярні тексти (Popular Science)),F_Sanina_Himnastyka_mozku_2_2014.txt,window,2,131,False,PERIOD
+chunk096_seg01,96,G (Наукові тексти (Science)),G_Semkiv_Prystrast_proty_rytoryky_2017.txt,window,2,181,False,PERIOD
+chunk096_seg02,96,G (Наукові тексти (Science)),G_Semkiv_Prystrast_proty_rytoryky_2017.txt,window,2,118,False,PERIOD
+chunk097_seg01,97,G (Наукові тексти (Science)),G_Vilchynskyi_Transformatsiya_rayonnoyi_presy_2015.txt,window,2,193,False,PERIOD
+chunk097_seg02,97,G (Наукові тексти (Science)),G_Vilchynskyi_Transformatsiya_rayonnoyi_presy_2015.txt,window,2,27,False,PERIOD
+chunk098_seg01,98,G (Наукові тексти (Science)),G_Labashchuk_Natalnyy_naratyv_i_usna_tradytsiya_1_2013.txt,window,2,189,False,PERIOD
+chunk098_seg02,98,G (Наукові тексти (Science)),G_Labashchuk_Natalnyy_naratyv_i_usna_tradytsiya_1_2013.txt,window,2,76,False,PERIOD
+chunk099_seg01,99,G (Наукові тексти (Science)),G_Popova_Pozasystemnyi_syntaksychnyi_zvyazok_2013.txt,window,2,194,False,PERIOD
+chunk099_seg02,99,G (Наукові тексти (Science)),G_Popova_Pozasystemnyi_syntaksychnyi_zvyazok_2013.txt,window,2,83,False,PERIOD
+chunk100_seg01,100,G (Наукові тексти (Science)),G_Demenko_Pozablokovyi_status_Ukrayiny_realiyi_ta_perspektyvy_2_2010.txt,window,2,187,False,PERIOD
+chunk100_seg02,100,G (Наукові тексти (Science)),G_Demenko_Pozablokovyi_status_Ukrayiny_realiyi_ta_perspektyvy_2_2010.txt,window,2,126,False,PERIOD
+chunk101_seg01,101,G (Наукові тексти (Science)),G_Nauka_i_oborona_Kachynskyi_Natsionalna_bezpeka_ta_hlobalni_zminy_klimatu_1_2013.txt,window,2,196,False,PERIOD
+chunk101_seg02,101,G (Наукові тексти (Science)),G_Nauka_i_oborona_Kachynskyi_Natsionalna_bezpeka_ta_hlobalni_zminy_klimatu_1_2013.txt,window,2,112,False,PERIOD
+chunk102_seg01,102,G (Наукові тексти (Science)),G_Mediakomunikatsiyi_ta_sotsialni_problemy_Shenderovskyi_Uvyazneni_(vrazlyva_sotsialna_hrupa_naselennia)_ta_mediakomunikatsiyi_2_2012.txt,window,1,189,False,PERIOD
+chunk103_seg01,103,G (Наукові тексти (Science)),G_Nauka_ta_innovatsiyi_Matiushenko_Instytutsiyna_pidtrymka_naukovo-innovatsiynoho_rozvytku_2017.txt,window,2,180,False,PERIOD
+chunk103_seg02,103,G (Наукові тексти (Science)),G_Nauka_ta_innovatsiyi_Matiushenko_Instytutsiyna_pidtrymka_naukovo-innovatsiynoho_rozvytku_2017.txt,window,2,134,False,PERIOD
+chunk104_seg01,104,G (Наукові тексти (Science)),G_Oltarzhevskyj_Osnovy_ta_metody_diyalnosti_suchasnykh_korporatyvnykh_media_1_2013.txt,window,2,199,False,PERIOD
+chunk104_seg02,104,G (Наукові тексти (Science)),G_Oltarzhevskyj_Osnovy_ta_metody_diyalnosti_suchasnykh_korporatyvnykh_media_1_2013.txt,window,2,115,False,PERIOD
+chunk105_seg01,105,G (Наукові тексти (Science)),G_Dzikovska_Metodyka_vyznachennia_teplovtrat_budynku_2015.txt,window,2,198,False,PERIOD
+chunk105_seg02,105,G (Наукові тексти (Science)),G_Dzikovska_Metodyka_vyznachennia_teplovtrat_budynku_2015.txt,window,2,92,False,PERIOD
+chunk106_seg01,106,G (Наукові тексти (Science)),G_Poznyak_Chornozem_u_naukovyh_2016.txt,window,2,193,False,PERIOD
+chunk106_seg02,106,G (Наукові тексти (Science)),G_Poznyak_Chornozem_u_naukovyh_2016.txt,window,2,97,False,PERIOD
+chunk107_seg01,107,G (Наукові тексти (Science)),G_Ohar_Dytiacha_knyha_v_ukrainskomu_sotsiumi_2_2012.txt,window,2,189,False,PERIOD
+chunk107_seg02,107,G (Наукові тексти (Science)),G_Ohar_Dytiacha_knyha_v_ukrainskomu_sotsiumi_2_2012.txt,window,2,91,False,PERIOD
+chunk108_seg01,108,G (Наукові тексти (Science)),G_Mediakomunikatsiyi_ta_sotsialni_problemy_Shenderovskyi_Uvyazneni_(vrazlyva_sotsialna_hrupa_naselennia)_ta_mediakomunikatsiyi_1_2012.txt,window,2,195,False,PERIOD
+chunk108_seg02,108,G (Наукові тексти (Science)),G_Mediakomunikatsiyi_ta_sotsialni_problemy_Shenderovskyi_Uvyazneni_(vrazlyva_sotsialna_hrupa_naselennia)_ta_mediakomunikatsiyi_1_2012.txt,window,2,112,False,PERIOD
+chunk109_seg01,109,G (Наукові тексти (Science)),G_Zhezhnych_Osoblyvosti_formuvannia_informatsiynoho_zabespechennia_turystychnoyi_diyalnosti_2014.txt,window,2,196,False,PERIOD
+chunk109_seg02,109,G (Наукові тексти (Science)),G_Zhezhnych_Osoblyvosti_formuvannia_informatsiynoho_zabespechennia_turystychnoyi_diyalnosti_2014.txt,window,2,69,False,PERIOD
+chunk110_seg01,110,G (Наукові тексти (Science)),G_Shestakevych_Informatsiyno-tekhnolohichnyi_suprovid_inkliuzyvnoho_navchannia_v_Ukrayini_2017.txt,window,2,189,False,PERIOD
+chunk110_seg02,110,G (Наукові тексти (Science)),G_Shestakevych_Informatsiyno-tekhnolohichnyi_suprovid_inkliuzyvnoho_navchannia_v_Ukrayini_2017.txt,window,2,120,False,PERIOD
+chunk111_seg01,111,G (Наукові тексти (Science)),G_Zuryan_Pro_zabezpechennia_prozorosti_rozrakhunkiv_pid_chas_vyznachennia_vartosti_korysnykh_kopalyn_2017.txt,window,2,196,False,PERIOD
+chunk111_seg02,111,G (Наукові тексти (Science)),G_Zuryan_Pro_zabezpechennia_prozorosti_rozrakhunkiv_pid_chas_vyznachennia_vartosti_korysnykh_kopalyn_2017.txt,window,2,96,False,PERIOD
+chunk112_seg01,112,G (Наукові тексти (Science)),G_Osypenko_Mihratsiya_i_rozpodil_orhanichnykh_rechovyn_1_2010.txt,window,2,188,False,PERIOD
+chunk112_seg02,112,G (Наукові тексти (Science)),G_Osypenko_Mihratsiya_i_rozpodil_orhanichnykh_rechovyn_1_2010.txt,window,2,118,False,PERIOD
+chunk113_seg01,113,G (Наукові тексти (Science)),G_Ohar_Dytiacha_knyha_v_ukrainskomu_sotsiumi_1_2012.txt,window,2,192,False,PERIOD
+chunk113_seg02,113,G (Наукові тексти (Science)),G_Ohar_Dytiacha_knyha_v_ukrainskomu_sotsiumi_1_2012.txt,window,2,111,False,PERIOD
+chunk114_seg01,114,G (Наукові тексти (Science)),G_Shymko_Druhe_zhyttia_motornyh_olyv_2013.txt,window,2,191,False,PERIOD
+chunk114_seg02,114,G (Наукові тексти (Science)),G_Shymko_Druhe_zhyttia_motornyh_olyv_2013.txt,window,2,111,False,PERIOD
+chunk115_seg01,115,H (Підручники (Textbooks)),H_Soroka_Biudzhetna_systema_4_2011.txt,window,2,193,False,PERIOD
+chunk115_seg02,115,H (Підручники (Textbooks)),H_Soroka_Biudzhetna_systema_4_2011.txt,window,2,46,False,PERIOD
+chunk116_seg01,116,H (Підручники (Textbooks)),H_Holovko_Astronomia_2018.txt,window,2,191,False,PERIOD
+chunk116_seg02,116,H (Підручники (Textbooks)),H_Holovko_Astronomia_2018.txt,window,2,101,False,PERIOD
+chunk117_seg01,117,H (Підручники (Textbooks)),H_Oliynyk_Konstruyuvannia_mebliv_ta_obladnannia_interyeru_1_2014.txt,window,2,183,False,PERIOD
+chunk117_seg02,117,H (Підручники (Textbooks)),H_Oliynyk_Konstruyuvannia_mebliv_ta_obladnannia_interyeru_1_2014.txt,window,2,103,False,PERIOD
+chunk118_seg01,118,H (Підручники (Textbooks)),H_Pohyba_Ukrayinska_mova_fakhovoho_spriamuvannia_3_2011.txt,window,2,199,False,PERIOD
+chunk118_seg02,118,H (Підручники (Textbooks)),H_Pohyba_Ukrayinska_mova_fakhovoho_spriamuvannia_3_2011.txt,window,2,85,False,PERIOD
+chunk119_seg01,119,H (Підручники (Textbooks)),H_Bilenko_Tekhnolohiyi_1_2018.txt,window,2,189,False,PERIOD
+chunk119_seg02,119,H (Підручники (Textbooks)),H_Bilenko_Tekhnolohiyi_1_2018.txt,window,2,112,False,PERIOD
+chunk120_seg01,120,H (Підручники (Textbooks)),H_Pometun_Istoriia_Ukrainy_1_2012.txt,window,2,195,False,PERIOD
+chunk120_seg02,120,H (Підручники (Textbooks)),H_Pometun_Istoriia_Ukrainy_1_2012.txt,window,2,113,False,QUESTION
+chunk121_seg01,121,H (Підручники (Textbooks)),H_Nozdrina_Upravlinnia_proektamy_2_2010.txt,window,2,199,False,PERIOD
+chunk121_seg02,121,H (Підручники (Textbooks)),H_Nozdrina_Upravlinnia_proektamy_2_2010.txt,window,2,32,False,PERIOD
+chunk122_seg01,122,H (Підручники (Textbooks)),H_Bublyk_Obyektno_oriyentovane_prohramuvannya_2_2015.txt,window,2,192,False,PERIOD
+chunk122_seg02,122,H (Підручники (Textbooks)),H_Bublyk_Obyektno_oriyentovane_prohramuvannya_2_2015.txt,window,2,85,False,PERIOD
+chunk123_seg01,123,H (Підручники (Textbooks)),H_Semenyuk_Ukraiinska_literatura_11_klas_2_2011.txt,window,2,195,False,PERIOD
+chunk123_seg02,123,H (Підручники (Textbooks)),H_Semenyuk_Ukraiinska_literatura_11_klas_2_2011.txt,window,2,75,False,PERIOD
+chunk124_seg01,124,H (Підручники (Textbooks)),H_Albul_Osnovy_operatyvno-rozshukovoyi_diyalnosti_2_2016.txt,window,2,172,False,PERIOD
+chunk124_seg02,124,H (Підручники (Textbooks)),H_Albul_Osnovy_operatyvno-rozshukovoyi_diyalnosti_2_2016.txt,window,2,123,False,PERIOD
+chunk125_seg01,125,H (Підручники (Textbooks)),H_Narovlianskyi_Osnovy_pravoznavstva_1_2017.txt,window,2,174,False,PERIOD
+chunk125_seg02,125,H (Підручники (Textbooks)),H_Narovlianskyi_Osnovy_pravoznavstva_1_2017.txt,window,2,96,False,PERIOD
+chunk126_seg01,126,H (Підручники (Textbooks)),H_Holod_Strakhuvannia_v_turystychniy_diyalnosti_2_2016.txt,window,2,200,False,PERIOD
+chunk126_seg02,126,H (Підручники (Textbooks)),H_Holod_Strakhuvannia_v_turystychniy_diyalnosti_2_2016.txt,window,2,60,False,PERIOD
+chunk127_seg01,127,H (Підручники (Textbooks)),H_Perehuda_Sotsiolohiya_1_2012.txt,window,2,195,False,PERIOD
+chunk127_seg02,127,H (Підручники (Textbooks)),H_Perehuda_Sotsiolohiya_1_2012.txt,window,2,113,False,PERIOD
+chunk128_seg01,128,H (Підручники (Textbooks)),H_Pometun_Istoriia_Ukrainy_2_2012.txt,window,2,184,False,PERIOD
+chunk128_seg02,128,H (Підручники (Textbooks)),H_Pometun_Istoriia_Ukrainy_2_2012.txt,window,2,111,False,QUESTION
+chunk129_seg01,129,H (Підручники (Textbooks)),H_Taranchenko_Dyferentsiyovane_vykladannia_v_inkliuzyvnomu_klasi_2_2012.txt,window,2,203,True,PERIOD
+chunk129_seg02,129,H (Підручники (Textbooks)),H_Taranchenko_Dyferentsiyovane_vykladannia_v_inkliuzyvnomu_klasi_2_2012.txt,window,2,85,False,PERIOD
+chunk130_seg01,130,H (Підручники (Textbooks)),H_Pestushko_Heohrafiya_2_2014.txt,window,2,190,False,PERIOD
+chunk130_seg02,130,H (Підручники (Textbooks)),H_Pestushko_Heohrafiya_2_2014.txt,window,2,86,False,PERIOD
+chunk131_seg01,131,H (Підручники (Textbooks)),H_Albul_Osnovy_operatyvno-rozshukovoyi_diyalnosti_3_2016.txt,window,2,195,False,PERIOD
+chunk131_seg02,131,H (Підручники (Textbooks)),H_Albul_Osnovy_operatyvno-rozshukovoyi_diyalnosti_3_2016.txt,window,2,96,False,PERIOD
+chunk132_seg01,132,H (Підручники (Textbooks)),H_Baryakhtar_Fizyka_1_2017.txt,window,2,200,False,PERIOD
+chunk132_seg02,132,H (Підручники (Textbooks)),H_Baryakhtar_Fizyka_1_2017.txt,window,2,96,False,PERIOD
+chunk133_seg01,133,H (Підручники (Textbooks)),H_Haponiuk_Finansovyi_rynok_3_2014.txt,window,2,189,False,PERIOD
+chunk133_seg02,133,H (Підручники (Textbooks)),H_Haponiuk_Finansovyi_rynok_3_2014.txt,window,2,114,False,PERIOD

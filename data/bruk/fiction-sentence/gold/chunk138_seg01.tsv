@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Євген	O	CAP
+від	O	O
+самого	O	O
+ранку	O	O
+ремонтував	O	O
+старого	O	O
+трактора	O	O
+на	O	O
+стані	PERIOD	O

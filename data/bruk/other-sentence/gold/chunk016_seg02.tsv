@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+А	O	CAP
+яка	O	O
+ситуація	O	O
+у	O	O
+величезній	O	O
+Росії	QUESTION	CAP

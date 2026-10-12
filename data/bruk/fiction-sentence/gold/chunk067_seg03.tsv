@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Та	O	CAP
+це	O	O
+лише	O	O
+сон	PERIOD	O

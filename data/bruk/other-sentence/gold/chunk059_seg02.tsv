@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+Я	O	CAP
+бував	O	O
+у	O	O
+Львові	O	CAP
+багато	O	O
+разів	COMMA	O
+але	O	O
+й	O	O
+нині	O	O
+поверхнево	O	O
+орієнтуюся	O	O
+навіть	O	O
+у	O	O
+центрі	PERIOD	O

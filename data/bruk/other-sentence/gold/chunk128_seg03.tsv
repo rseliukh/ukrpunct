@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+Які	O	CAP
+заходи	O	O
+здійснила	O	O
+влада	O	O
+навесні	O	O
+1930	O	O
+року	COMMA	O
+щоб	O	O
+заспокоїти	O	O
+селян	QUESTION	O

@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Але	O	CAP
+чи	O	O
+використовуємо	O	O
+ми	O	O
+ці	O	O
+Божі	O	CAP
+дари	O	O
+як	O	O
+належить	QUESTION	O

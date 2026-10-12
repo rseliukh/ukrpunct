@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+Серце	O	CAP
+шалено	O	O
+калатало	O	O
+в	O	O
+грудях	COMMA	O
+поки	O	O
+вона	O	O
+зробила	O	O
+кілька	O	O
+кроків	O	O
+і	O	O
+визирнула	O	O
+з-за	O	O
+дерева	PERIOD	O

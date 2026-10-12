@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+А	O	CAP
+вчора	COMMA	O
+15	O	O
+грудня	COMMA	O
+у	O	O
+Кривому	O	CAP
+Розі	O	CAP
+померла	O	O
+семирічна	O	O
+дівчинка	PERIOD	O

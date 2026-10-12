@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Ну	O	CAP
+чому	O	O
+вона	O	O
+не	O	O
+лишилася	O	O
+після	O	O
+пар	O	O
+на	O	O
+кафедрі	O	O
+випити	O	O
+кави	QUESTION	O

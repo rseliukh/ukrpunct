@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+знали	O	O
+про	O	O
+цю	O	O
+проблему	O	O
+дипломати	O	O
+з	O	O
+українського	O	O
+посольства	O	O
+в	O	O
+Чехії	QUESTION	CAP

@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Картоплю	O	CAP
+з	O	O
+ринку	O	O
+принести	COMMA	O
+чи	O	O
+що	QUESTION	O

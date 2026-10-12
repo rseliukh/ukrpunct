@@ -1,0 +1,17 @@
+token	punct_tag	cap_tag
+Відпрацювала	O	CAP
+своє	COMMA	O
+погляд	O	O
+згас	COMMA	O
+зіщулилась	COMMA	O
+прошепотіла	O	O
+щось	COMMA	O
+нахилившись	O	O
+до	O	O
+режисера	COMMA	O
+загорнулась	O	O
+у	O	O
+поданий	O	O
+кимось	O	O
+жовто-помаранчевий	O	O
+палантин	PERIOD	O

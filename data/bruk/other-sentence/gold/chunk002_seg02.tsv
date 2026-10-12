@@ -1,0 +1,16 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+не	O	O
+означає	O	O
+це	COMMA	O
+що	O	O
+Опоблок	O	CAP
+на	O	O
+президентських	O	O
+виборах	O	O
+вирішив	O	O
+зробити	O	O
+ставку	O	O
+саме	O	O
+на	O	O
+Вілкула	QUESTION	CAP

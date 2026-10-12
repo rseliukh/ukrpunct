@@ -1,0 +1,16 @@
+token	punct_tag	cap_tag
+Скажіть	COMMA	CAP
+а	O	O
+де	O	O
+в	O	O
+нас	O	O
+найбільші	O	O
+озонові	O	O
+діри	O	O
+в	O	O
+перекладній	O	O
+літературі	COMMA	O
+що	O	O
+треба	O	O
+латати	O	O
+негайно	QUESTION	O

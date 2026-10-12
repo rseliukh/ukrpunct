@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Але	O	CAP
+без	O	O
+професійного	O	O
+студійного	O	O
+обладнання	O	O
+обійтися	O	O
+можна	PERIOD	O

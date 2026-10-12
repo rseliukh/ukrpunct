@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Хіба	O	CAP
+не	O	O
+ось	O	O
+такий	O	O
+піст	O	O
+я	O	O
+вибрав	QUESTION	O

@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Я	O	CAP
+приплющую	O	O
+очі	COMMA	O
+щоб	O	O
+самій	O	O
+усе	O	O
+те	O	O
+побачити	PERIOD	O

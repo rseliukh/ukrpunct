@@ -1,0 +1,17 @@
+token	punct_tag	cap_tag
+І	O	CAP
+тому	O	O
+дуже	O	O
+чекає	O	O
+свого	O	O
+чотирнадцятиліття	PERIOD	O
+Правда	COMMA	CAP
+до	O	O
+цього	O	O
+ще	O	O
+далеко	COMMA	O
+ось	O	O
+невдовзі	O	O
+їй	O	O
+сповниться	O	O
+дванадцять	PERIOD	O

@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+й	O	O
+зовсім	O	O
+невагомий	QUESTION	O

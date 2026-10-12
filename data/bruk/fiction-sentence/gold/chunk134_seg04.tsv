@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+У	O	CAP
+мене	O	O
+стріляли	QUESTION	O

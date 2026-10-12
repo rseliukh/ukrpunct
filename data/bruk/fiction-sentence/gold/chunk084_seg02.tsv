@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Щоб	O	CAP
+ти	O	O
+не	O	O
+потрапив	O	O
+під	O	O
+мій	O	O
+поганий	O	O
+вплив	QUESTION	O

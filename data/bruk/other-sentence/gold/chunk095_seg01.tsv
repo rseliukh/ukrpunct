@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Чому	O	CAP
+вода	O	O
+така	O	O
+важлива	QUESTION	O

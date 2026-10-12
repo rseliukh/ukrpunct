@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+Я	O	CAP
+дуже	O	O
+боявся	COMMA	O
+що	O	O
+мені	O	O
+не	O	O
+дістануться	O	O
+ті	O	O
+золотаві	O	O
+кульки	O	O
+драглів	O	O
+на	O	O
+дні	O	O
+бляшанки	PERIOD	O

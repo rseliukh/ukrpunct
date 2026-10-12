@@ -1,0 +1,17 @@
+token	punct_tag	cap_tag
+Шурхотіла	O	CAP
+паперовими	O	O
+крильцями	O	O
+десь	O	O
+там	COMMA	O
+угорі	COMMA	O
+а	O	O
+потім	O	O
+списувала	O	O
+їх	O	O
+нотатками	O	O
+і	O	O
+замальовками	O	O
+зі	O	O
+своїх	O	O
+мандрів	PERIOD	O

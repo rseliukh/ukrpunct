@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+До	O	CAP
+моменту	O	O
+дозрівання	O	O
+вони	O	O
+поєднані	O	O
+з	O	O
+базидіями	O	O
+ніжками-стеригмами	PERIOD	O

@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Водій	O	CAP
+увімкнув	O	O
+якусь	O	O
+легку	O	O
+музику	PERIOD	O

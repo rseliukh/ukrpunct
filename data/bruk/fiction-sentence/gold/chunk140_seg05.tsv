@@ -1,0 +1,16 @@
+token	punct_tag	cap_tag
+Чого	O	CAP
+вона	O	O
+цілими	O	O
+днями	O	O
+просиджує	O	O
+з	O	O
+його	O	O
+світлинами	O	O
+в	O	O
+руках	O	O
+і	O	O
+ховає	O	O
+від	O	O
+мене	O	O
+очі	QUESTION	O

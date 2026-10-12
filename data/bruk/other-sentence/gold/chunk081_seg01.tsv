@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Як	O	CAP
+же	O	O
+так	QUESTION	O

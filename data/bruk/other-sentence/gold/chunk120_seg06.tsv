@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Поясніть	COMMA	CAP
+що	O	O
+означають	O	O
+терміни	O	O
+коренізація	O	O
+й	O	O
+українізація	QUESTION	O

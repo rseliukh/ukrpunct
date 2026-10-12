@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+А	O	CAP
+якщо	O	O
+це	O	O
+пекло	O	O
+опустилося	O	O
+сьогодні	O	O
+з	O	O
+неба	O	O
+на	O	O
+землю	QUESTION	O

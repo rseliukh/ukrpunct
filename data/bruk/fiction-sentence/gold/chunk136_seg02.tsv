@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Так	O	CAP
+було	O	O
+зручно	O	O
+усім	PERIOD	O

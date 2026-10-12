@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Втім	COMMA	CAP
+далеко	O	O
+не	O	O
+лише	O	O
+ці	O	O
+двоє	O	O
+політиків	O	O
+почали	O	O
+активно	O	O
+рекламувати	O	O
+себе	PERIOD	O

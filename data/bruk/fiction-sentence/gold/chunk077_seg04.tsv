@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Чого	O	CAP
+хоче	O	O
+від	O	O
+нас	O	O
+цей	O	O
+розумник	QUESTION	O

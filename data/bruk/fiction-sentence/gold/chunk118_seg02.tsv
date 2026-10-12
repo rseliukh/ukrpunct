@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Отже	COMMA	CAP
+є	O	O
+лише	O	O
+наказ	O	O
+до	O	O
+розмноження	COMMA	O
+прикрашений	O	O
+невротиками	COMMA	O
+які	O	O
+чомусь	O	O
+творять	O	O
+культуру	PERIOD	O

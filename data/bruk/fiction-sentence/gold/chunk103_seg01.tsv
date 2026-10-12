@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+На	O	CAP
+ДВРЗ	O	CAP
+поїхати	QUESTION	O

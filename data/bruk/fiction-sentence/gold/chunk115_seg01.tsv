@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+З	O	CAP
+комори	O	O
+мала	O	O
+виритий	O	O
+потаємний	O	O
+хід	O	O
+до	O	O
+яру	PERIOD	O

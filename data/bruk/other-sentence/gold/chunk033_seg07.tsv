@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+робити	O	O
+аборт	QUESTION	O

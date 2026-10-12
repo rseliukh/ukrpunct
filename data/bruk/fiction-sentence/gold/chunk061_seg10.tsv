@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+вміє	O	O
+Бог	O	CAP
+ремонтувати	O	O
+поламані	O	O
+телевізори	QUESTION	O

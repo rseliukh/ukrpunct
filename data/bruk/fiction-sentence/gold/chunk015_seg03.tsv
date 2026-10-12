@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+І	O	CAP
+взагалі	COMMA	O
+чому	O	O
+все	O	O
+вирішувати	O	O
+має	O	O
+оцей	O	O
+рожевощокий	O	O
+опецькуватий	O	O
+карапуз	QUESTION	O

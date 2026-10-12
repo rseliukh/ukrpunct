@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+він	O	O
+переселить	O	O
+тоді	O	O
+маму	O	O
+до	O	O
+нас	QUESTION	O

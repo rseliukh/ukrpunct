@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Проте	COMMA	CAP
+що	O	O
+означає	O	O
+бути	O	O
+словом	QUESTION	O

@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Бо	O	CAP
+це	O	O
+Скарб	O	CAP
+Божий	PERIOD	CAP

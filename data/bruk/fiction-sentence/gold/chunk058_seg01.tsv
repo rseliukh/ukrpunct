@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+Також	O	CAP
+вона	O	O
+вміла	O	O
+поєднувати	O	O
+життя	O	O
+в	O	O
+кротячій	O	O
+сім'ї	O	O
+з	O	O
+тим	COMMA	O
+чим	O	O
+переважно	O	O
+займаються	O	O
+зайці	PERIOD	O

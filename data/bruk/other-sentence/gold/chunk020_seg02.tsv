@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+ж	O	O
+оце	O	O
+називаєш	O	O
+ти	O	O
+постом	O	O
+та	O	O
+днем	O	O
+уподоби	O	O
+для	O	O
+Господа	QUESTION	CAP

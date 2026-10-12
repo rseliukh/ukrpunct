@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Я	O	CAP
+не	O	O
+шкодував	COMMA	O
+що	O	O
+не	O	O
+знайшов	O	O
+ані	O	O
+найменшого	O	O
+кусника	O	O
+Гербуртового	O	CAP
+письмового	O	O
+спадку	PERIOD	O

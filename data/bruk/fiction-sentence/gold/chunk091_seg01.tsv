@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Третій	O	CAP
+сувій	O	O
+був	O	O
+найзагадковішим	PERIOD	O

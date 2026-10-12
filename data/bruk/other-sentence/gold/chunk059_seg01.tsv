@@ -1,0 +1,14 @@
+token	punct_tag	cap_tag
+Але	COMMA	CAP
+узагальнюючи	COMMA	O
+я	O	O
+не	O	O
+мав	O	O
+рації	COMMA	O
+бо	O	O
+такі	O	O
+люди	O	O
+є	O	O
+в	O	O
+кожному	O	O
+мегаполісі	PERIOD	O

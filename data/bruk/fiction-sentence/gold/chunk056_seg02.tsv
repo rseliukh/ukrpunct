@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+Хіба	O	CAP
+його	O	O
+вина	COMMA	O
+що	O	O
+єдиним	O	O
+матеріальним	O	O
+еквівалентом	O	O
+будь-яких	O	O
+душевних	O	O
+злетів	O	O
+і	O	O
+досягнень	O	O
+є	O	O
+гроші	QUESTION	O

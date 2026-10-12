@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+Якщо	O	CAP
+й	O	O
+справді	O	O
+мій	O	O
+тато	O	O
+став	O	O
+зіркою	COMMA	O
+то	O	O
+чого	O	O
+моя	O	O
+мама	O	O
+так	O	O
+багато	O	O
+плаче	QUESTION	O

@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+ж	O	O
+далі	QUESTION	O

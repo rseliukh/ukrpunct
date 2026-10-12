@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Ірмі	O	CAP
+цікаво	O	O
+знати	COMMA	O
+чому	PERIOD	O

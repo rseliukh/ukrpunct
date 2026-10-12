@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Та	O	CAP
+й	O	O
+чи	O	O
+прибився	O	O
+б	QUESTION	O

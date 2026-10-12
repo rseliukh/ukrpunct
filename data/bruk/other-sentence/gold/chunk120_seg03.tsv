@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Чому	O	CAP
+вони	O	O
+активно	O	O
+проводили	O	O
+культурно-просвітницьку	O	O
+роботу	QUESTION	O

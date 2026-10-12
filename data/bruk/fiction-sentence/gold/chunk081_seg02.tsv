@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Та	O	CAP
+хіба	O	O
+таке	O	O
+може	O	O
+бути	QUESTION	O

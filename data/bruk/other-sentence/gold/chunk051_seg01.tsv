@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+В	O	CAP
+Україні	O	CAP
+розгортається	O	O
+епідемія	O	O
+грипу	PERIOD	O

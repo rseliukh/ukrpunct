@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+І	O	CAP
+що	O	O
+котові	O	O
+ті	O	O
+пов'язки	COMMA	O
+як	O	O
+він	O	O
+вусами	O	O
+бачить	QUESTION	O

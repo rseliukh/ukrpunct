@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Нагадування	O	CAP
+про	O	O
+рідкісність	O	O
+теплоти	QUESTION	O

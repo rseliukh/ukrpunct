@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Складне	O	CAP
+питання	COMMA	O
+й	O	O
+відповіді	COMMA	O
+яка	O	O
+задовольнила	O	O
+б	O	O
+усіх	COMMA	O
+воно	O	O
+не	O	O
+має	PERIOD	O

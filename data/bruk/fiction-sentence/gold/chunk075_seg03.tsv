@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Лунала	O	CAP
+музика	COMMA	O
+присутні	O	O
+про	O	O
+щось	O	O
+перемовлялися	COMMA	O
+сміялись	PERIOD	O

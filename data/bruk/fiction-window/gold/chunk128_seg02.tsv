@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+Сільський	O	CAP
+уповноважений	O	O
+міліціонер	O	O
+цілком	O	O
+міг	O	O
+отримати	O	O
+інформацію	O	O
+про	O	O
+втечу	PERIOD	O
+Тож	O	CAP
+нова	O	O
+людина	O	O
+привертала	O	O
+увагу	PERIOD	O

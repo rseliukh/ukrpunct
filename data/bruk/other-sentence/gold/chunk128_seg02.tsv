@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Доля	O	CAP
+приватних	O	O
+сільських	O	O
+господарств	PERIOD	O

@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+Звісно	COMMA	CAP
+по	O	O
+землі	O	O
+ходити	O	O
+цікаво	COMMA	O
+але	O	O
+на	O	O
+дахах	O	O
+ще	O	O
+цікавіше	COMMA	O
+бо	O	O
+звідти	O	O
+більше	O	O
+видно	PERIOD	O

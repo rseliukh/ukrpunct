@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Я	O	CAP
+прочитав	O	O
+по	O	O
+слідах	COMMA	O
+як	O	O
+все	O	O
+було	O	O
+насправді	PERIOD	O

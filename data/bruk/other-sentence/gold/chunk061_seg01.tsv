@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Але	O	CAP
+ми	O	O
+напевно	O	O
+знаємо	COMMA	O
+що	O	O
+магнетична	O	O
+теорія	O	O
+сама	O	O
+мала	O	O
+дивний	O	O
+вплив	PERIOD	O

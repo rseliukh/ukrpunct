@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+таке	O	O
+трофей	O	O
+козулі	O	O
+для	O	O
+мисливця	COMMA	O
+як	O	O
+його	O	O
+виготовляють	O	O
+та	O	O
+як	O	O
+оцінюють	QUESTION	O

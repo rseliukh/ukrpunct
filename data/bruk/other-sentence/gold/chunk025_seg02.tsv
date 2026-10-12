@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Вона	O	CAP
+має	O	O
+також	O	O
+деякі	O	O
+особливі	O	O
+звичаї	COMMA	O
+яких	O	O
+не	O	O
+мають	O	O
+інші	O	O
+свята	PERIOD	O

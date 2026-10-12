@@ -1,0 +1,17 @@
+token	punct_tag	cap_tag
+Он	O	CAP
+у	O	O
+нього	O	O
+ще	O	O
+й	O	O
+молоко	O	O
+на	O	O
+губах	O	O
+не	O	O
+обсохло	COMMA	O
+куди	O	O
+йому	O	O
+до	O	O
+серйозних	O	O
+справ	O	O
+сердечних	QUESTION	O

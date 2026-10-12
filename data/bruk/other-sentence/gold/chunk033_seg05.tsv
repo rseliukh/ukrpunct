@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+робити	O	O
+із	O	O
+залежністю	O	O
+рідного	QUESTION	O

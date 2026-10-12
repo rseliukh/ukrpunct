@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Може	COMMA	CAP
+тому	O	O
+їй	O	O
+страшно	QUESTION	O

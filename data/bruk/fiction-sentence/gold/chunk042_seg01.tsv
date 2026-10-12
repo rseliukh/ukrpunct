@@ -1,0 +1,14 @@
+token	punct_tag	cap_tag
+Серед	O	CAP
+паперів	O	O
+була	O	O
+добре	O	O
+знайома	O	O
+стаття	O	O
+Андрія	O	CAP
+Паладіна	COMMA	CAP
+цифри	O	O
+й	O	O
+висновки	O	O
+споживчих	O	O
+експертиз	PERIOD	O

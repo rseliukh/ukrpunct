@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Воно	O	CAP
+мало	O	O
+хутро	O	O
+кольору	O	O
+неба	PERIOD	O

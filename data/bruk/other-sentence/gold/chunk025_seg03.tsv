@@ -1,0 +1,17 @@
+token	punct_tag	cap_tag
+Для	O	CAP
+кращого	O	O
+розуміння	O	O
+цього	O	O
+свята	O	O
+поглянемо	O	O
+на	O	O
+його	O	O
+історію	COMMA	O
+духовне	O	O
+значення	O	O
+та	O	O
+звичаї	COMMA	O
+пов'язані	O	O
+з	O	O
+ним	PERIOD	O

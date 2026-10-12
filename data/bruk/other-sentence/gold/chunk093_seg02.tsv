@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+То	O	CAP
+хіба	O	O
+варто	O	O
+щодня	O	O
+у	O	O
+бійку	O	O
+із	O	O
+чужинцем	O	O
+встрявати	QUESTION	O

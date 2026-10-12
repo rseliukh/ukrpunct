@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Може	O	CAP
+лягти	O	O
+покуняти	QUESTION	O

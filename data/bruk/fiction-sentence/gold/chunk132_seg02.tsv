@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Але	O	CAP
+чи	O	O
+направду	O	O
+хотіла	O	O
+я	O	O
+тебе	O	O
+чекати	QUESTION	O

@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Чуєш	COMMA	CAP
+яке	O	O
+воно	O	O
+тепле	QUESTION	O

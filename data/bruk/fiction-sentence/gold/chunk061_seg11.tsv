@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+смакує	O	O
+Богові	O	CAP
+тушкована	O	O
+капуста	O	O
+з	O	O
+м'ясом	O	O
+і	O	O
+чорносливом	QUESTION	O

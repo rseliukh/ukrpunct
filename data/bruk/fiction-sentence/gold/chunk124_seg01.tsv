@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+Може	COMMA	CAP
+вона	O	O
+думала	COMMA	O
+що	O	O
+Йора	O	CAP
+їй	O	O
+заздрить	COMMA	O
+бо	O	O
+чому	O	O
+б	O	O
+і	O	O
+не	O	O
+мала	O	O
+заздрити	QUESTION	O

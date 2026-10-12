@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Як	O	CAP
+же	O	O
+подовжити	O	O
+термін	O	O
+їх	O	O
+зберігання	QUESTION	O

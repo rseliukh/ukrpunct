@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Як	O	CAP
+вони	O	O
+утворюються	QUESTION	O

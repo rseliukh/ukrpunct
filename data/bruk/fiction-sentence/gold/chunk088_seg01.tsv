@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Вони	O	CAP
+уникали	O	O
+дивитися	O	O
+одне	O	O
+одному	O	O
+в	O	O
+очі	PERIOD	O

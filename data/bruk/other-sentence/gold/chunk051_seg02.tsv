@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Однак	O	CAP
+наразі	O	O
+фіксують	O	O
+зараження	O	O
+вірусом	O	O
+тільки	O	O
+групи	O	O
+A	O	CAP
+і	O	O
+здебільшого	O	O
+в	O	O
+дітей	PERIOD	O

@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+про	O	O
+те	COMMA	O
+що	O	O
+від	O	O
+холоду	O	O
+не	O	O
+втечеш	QUESTION	O

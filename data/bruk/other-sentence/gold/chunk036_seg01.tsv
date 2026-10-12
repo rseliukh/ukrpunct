@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+відбувається	O	O
+з	O	O
+тим	COMMA	O
+хто	O	O
+точно	O	O
+виконує	O	O
+всі	O	O
+церковні	COMMA	O
+суто	O	O
+зовнішні	COMMA	O
+приписи	QUESTION	O

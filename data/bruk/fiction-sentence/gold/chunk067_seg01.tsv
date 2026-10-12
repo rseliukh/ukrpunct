@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+По	O	CAP
+правому	O	O
+борту	O	O
+внизу	O	O
+було	O	O
+невеличке	O	O
+болітце	PERIOD	O

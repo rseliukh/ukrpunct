@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Куди	O	CAP
+це	O	O
+ми	QUESTION	O

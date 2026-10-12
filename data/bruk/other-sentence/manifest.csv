@@ -1,0 +1,169 @@
+segment_id,chunk_id,category,source,mode,n_segments_in_chunk,n_words,over_200_words,end_class
+chunk002_seg01,2,A (Преса (Press)),A_Detektor_Media_Bakhteyev_Peredvyborcha_reklama_vichna_i_neznyshchenna_2018.txt,sentence-oracle,2,11,False,PERIOD
+chunk002_seg02,2,A (Преса (Press)),A_Detektor_Media_Bakhteyev_Peredvyborcha_reklama_vichna_i_neznyshchenna_2018.txt,sentence-oracle,2,15,False,QUESTION
+chunk007_seg01,7,A (Преса (Press)),A_Kyivskyi_universytet_Nash_spilnyi_proekt_2014.txt,sentence-oracle,2,12,False,PERIOD
+chunk007_seg02,7,A (Преса (Press)),A_Kyivskyi_universytet_Nash_spilnyi_proekt_2014.txt,sentence-oracle,2,27,False,PERIOD
+chunk009_seg01,9,A (Преса (Press)),A_Detektor_Media_Bakhteyev_Prorosiyska_propahanda_i_cherhove_kaposne_pytannia_2018.txt,sentence-oracle,3,11,False,PERIOD
+chunk009_seg02,9,A (Преса (Press)),A_Detektor_Media_Bakhteyev_Prorosiyska_propahanda_i_cherhove_kaposne_pytannia_2018.txt,sentence-oracle,3,5,False,PERIOD
+chunk009_seg03,9,A (Преса (Press)),A_Detektor_Media_Bakhteyev_Prorosiyska_propahanda_i_cherhove_kaposne_pytannia_2018.txt,sentence-oracle,3,7,False,PERIOD
+chunk011_seg01,11,A (Преса (Press)),A_theinsider.ua_Kiyanovska_2_Ya_ne_poet_2014.txt,sentence-oracle,3,15,False,QUESTION
+chunk011_seg02,11,A (Преса (Press)),A_theinsider.ua_Kiyanovska_2_Ya_ne_poet_2014.txt,sentence-oracle,3,12,False,PERIOD
+chunk011_seg03,11,A (Преса (Press)),A_theinsider.ua_Kiyanovska_2_Ya_ne_poet_2014.txt,sentence-oracle,3,7,False,PERIOD
+chunk014_seg01,14,A (Преса (Press)),A_zorya.poltava.ua_Boyko_Yakshcho_u_batka_vpravni_ruky_2014.txt,sentence-oracle,1,4,False,PERIOD
+chunk015_seg01,15,A (Преса (Press)),A_Novyi_den_Piddubniak_Ne_zabuvaty_2016.txt,sentence-oracle,1,3,False,QUESTION
+chunk016_seg01,16,A (Преса (Press)),A_Versii_Burkut_Ukraini_zahrozhuie_rozpad_2012.txt,sentence-oracle,3,8,False,PERIOD
+chunk016_seg02,16,A (Преса (Press)),A_Versii_Burkut_Ukraini_zahrozhuie_rozpad_2012.txt,sentence-oracle,3,6,False,QUESTION
+chunk016_seg03,16,A (Преса (Press)),A_Versii_Burkut_Ukraini_zahrozhuie_rozpad_2012.txt,sentence-oracle,3,21,False,PERIOD
+chunk017_seg01,17,A (Преса (Press)),A_ekspres-onlain_Sekretni_spravy_prokurora_2015.txt,sentence-oracle,1,10,False,PERIOD
+chunk019_seg01,19,A (Преса (Press)),A_zbruc.eu_Dzhamala_peremohla_u_konkursi_Eurovision_2016.txt,sentence-oracle,2,9,False,PERIOD
+chunk019_seg02,19,A (Преса (Press)),A_zbruc.eu_Dzhamala_peremohla_u_konkursi_Eurovision_2016.txt,sentence-oracle,2,11,False,PERIOD
+chunk020_seg01,20,B (Релігія (Religion)),B_Kana_Pist_po-suchasnomu_2_2013.txt,sentence-oracle,4,26,False,QUESTION
+chunk020_seg02,20,B (Релігія (Religion)),B_Kana_Pist_po-suchasnomu_2_2013.txt,sentence-oracle,4,11,False,QUESTION
+chunk020_seg03,20,B (Релігія (Religion)),B_Kana_Pist_po-suchasnomu_2_2013.txt,sentence-oracle,4,7,False,QUESTION
+chunk020_seg04,20,B (Релігія (Religion)),B_Kana_Pist_po-suchasnomu_2_2013.txt,sentence-oracle,4,10,False,QUESTION
+chunk021_seg01,21,B (Релігія (Religion)),B_Bendyk_Misiolohiia_2_2013.txt,sentence-oracle,1,22,False,PERIOD
+chunk023_seg01,23,B (Релігія (Religion)),B_Zvernennia_Tradytsiinyh_Ukr_Tserkov_2011.txt,sentence-oracle,4,28,False,PERIOD
+chunk023_seg02,23,B (Релігія (Religion)),B_Zvernennia_Tradytsiinyh_Ukr_Tserkov_2011.txt,sentence-oracle,4,20,False,PERIOD
+chunk023_seg03,23,B (Релігія (Religion)),B_Zvernennia_Tradytsiinyh_Ukr_Tserkov_2011.txt,sentence-oracle,4,12,False,QUESTION
+chunk023_seg04,23,B (Релігія (Religion)),B_Zvernennia_Tradytsiinyh_Ukr_Tserkov_2011.txt,sentence-oracle,4,9,False,QUESTION
+chunk024_seg01,24,B (Релігія (Religion)),B_Tarasenko_Maty_i_znaty_zapovidi_2014.txt,sentence-oracle,5,5,False,PERIOD
+chunk024_seg02,24,B (Релігія (Religion)),B_Tarasenko_Maty_i_znaty_zapovidi_2014.txt,sentence-oracle,5,10,False,QUESTION
+chunk024_seg03,24,B (Релігія (Religion)),B_Tarasenko_Maty_i_znaty_zapovidi_2014.txt,sentence-oracle,5,7,False,QUESTION
+chunk024_seg04,24,B (Релігія (Religion)),B_Tarasenko_Maty_i_znaty_zapovidi_2014.txt,sentence-oracle,5,7,False,QUESTION
+chunk024_seg05,24,B (Релігія (Religion)),B_Tarasenko_Maty_i_znaty_zapovidi_2014.txt,sentence-oracle,5,11,False,QUESTION
+chunk025_seg01,25,B (Релігія (Religion)),B_Istoria_ta_dukhovne_znachennia_sviata_vkhodu_2017.txt,sentence-oracle,3,22,False,PERIOD
+chunk025_seg02,25,B (Релігія (Religion)),B_Istoria_ta_dukhovne_znachennia_sviata_vkhodu_2017.txt,sentence-oracle,3,11,False,PERIOD
+chunk025_seg03,25,B (Релігія (Religion)),B_Istoria_ta_dukhovne_znachennia_sviata_vkhodu_2017.txt,sentence-oracle,3,16,False,PERIOD
+chunk026_seg01,26,B (Релігія (Religion)),B_Kana_Pist_po-suchasnomu_1_2013.txt,sentence-oracle,1,24,False,QUESTION
+chunk027_seg01,27,B (Релігія (Religion)),B_Khaustov_495_rokiv_vid_pochatku_liuteranskoi_reformatsii_reformatsiia_tryvaie_1_2012.txt,sentence-oracle,1,4,False,PERIOD
+chunk028_seg01,28,B (Релігія (Religion)),B_Kana_Nadiia_voskresinnia_2013.txt,sentence-oracle,3,3,False,QUESTION
+chunk028_seg02,28,B (Релігія (Religion)),B_Kana_Nadiia_voskresinnia_2013.txt,sentence-oracle,3,6,False,QUESTION
+chunk028_seg03,28,B (Релігія (Religion)),B_Kana_Nadiia_voskresinnia_2013.txt,sentence-oracle,3,10,False,QUESTION
+chunk029_seg01,29,B (Релігія (Religion)),B_Huzar_Naskilky_ti_2017.txt,sentence-oracle,1,5,False,QUESTION
+chunk030_seg01,30,B (Релігія (Religion)),B_Hrebeniuk_Odyn_mozhe_bahato_2012.txt,sentence-oracle,1,17,False,PERIOD
+chunk033_seg01,33,B (Релігія (Religion)),B_Kana_Ucheteliu_blahyi_2013.txt,sentence-oracle,9,3,False,QUESTION
+chunk033_seg02,33,B (Релігія (Religion)),B_Kana_Ucheteliu_blahyi_2013.txt,sentence-oracle,9,3,False,QUESTION
+chunk033_seg03,33,B (Релігія (Religion)),B_Kana_Ucheteliu_blahyi_2013.txt,sentence-oracle,9,3,False,QUESTION
+chunk033_seg04,33,B (Релігія (Religion)),B_Kana_Ucheteliu_blahyi_2013.txt,sentence-oracle,9,4,False,QUESTION
+chunk033_seg05,33,B (Релігія (Religion)),B_Kana_Ucheteliu_blahyi_2013.txt,sentence-oracle,9,5,False,QUESTION
+chunk033_seg06,33,B (Релігія (Religion)),B_Kana_Ucheteliu_blahyi_2013.txt,sentence-oracle,9,3,False,QUESTION
+chunk033_seg07,33,B (Релігія (Religion)),B_Kana_Ucheteliu_blahyi_2013.txt,sentence-oracle,9,3,False,QUESTION
+chunk033_seg08,33,B (Релігія (Religion)),B_Kana_Ucheteliu_blahyi_2013.txt,sentence-oracle,9,6,False,QUESTION
+chunk033_seg09,33,B (Релігія (Religion)),B_Kana_Ucheteliu_blahyi_2013.txt,sentence-oracle,9,8,False,PERIOD
+chunk034_seg01,34,B (Релігія (Religion)),B_Khaustov_495_rokiv_vid_pochatku_liuteranskoi_reformatsii_reformatsiia_tryvaie_2_2012.txt,sentence-oracle,1,6,False,QUESTION
+chunk036_seg01,36,B (Релігія (Religion)),B_AXIOS_1_2015.txt,sentence-oracle,2,12,False,QUESTION
+chunk036_seg02,36,B (Релігія (Religion)),B_AXIOS_1_2015.txt,sentence-oracle,2,31,False,QUESTION
+chunk037_seg01,37,B (Релігія (Religion)),B_Zvernennia_Biuro_UHKTS_z_pytan_ekolohii_2013.txt,sentence-oracle,1,34,False,PERIOD
+chunk038_seg01,38,B (Релігія (Religion)),B_AXIOS_2_2015.txt,sentence-oracle,1,16,False,PERIOD
+chunk039_seg01,39,C (Побут і хобі (Skills & Hobbies)),C_Nashe_ptakhivnytstvo_Teplovyi_stres_2018.txt,sentence-oracle,2,34,False,PERIOD
+chunk039_seg02,39,C (Побут і хобі (Skills & Hobbies)),C_Nashe_ptakhivnytstvo_Teplovyi_stres_2018.txt,sentence-oracle,2,9,False,PERIOD
+chunk040_seg01,40,C (Побут і хобі (Skills & Hobbies)),C_Karavanska_Stylna_knyzhka_dlia_panianky_2015.txt,sentence-oracle,1,3,False,QUESTION
+chunk041_seg01,41,C (Побут і хобі (Skills & Hobbies)),C_Vynnychuk_Halytska_kukhnya_8_2014.txt,sentence-oracle,1,10,False,PERIOD
+chunk043_seg01,43,C (Побут і хобі (Skills & Hobbies)),C_Lisovyi_i_Myslyvskyi_zhurnal_Yanenko_Oy_moroz_moroz_2012.txt,sentence-oracle,2,3,False,QUESTION
+chunk043_seg02,43,C (Побут і хобі (Skills & Hobbies)),C_Lisovyi_i_Myslyvskyi_zhurnal_Yanenko_Oy_moroz_moroz_2012.txt,sentence-oracle,2,7,False,QUESTION
+chunk044_seg01,44,C (Побут і хобі (Skills & Hobbies)),C_Lisovyi_i_Myslyvskyi_zhurnal_Vyprytskyi_Hratsiya_ukrayinskoho_lisu_2_2012.txt,sentence-oracle,2,14,False,QUESTION
+chunk044_seg02,44,C (Побут і хобі (Skills & Hobbies)),C_Lisovyi_i_Myslyvskyi_zhurnal_Vyprytskyi_Hratsiya_ukrayinskoho_lisu_2_2012.txt,sentence-oracle,2,12,False,QUESTION
+chunk045_seg01,45,C (Побут і хобі (Skills & Hobbies)),C_Pani_vchytelka_Zhyla_Tanets_zhyvota_2010.txt,sentence-oracle,1,18,False,PERIOD
+chunk046_seg01,46,C (Побут і хобі (Skills & Hobbies)),C_National_Geographic_Ukrayina_Panova_Donbas_ta_holuby_2_2013.txt,sentence-oracle,2,4,False,QUESTION
+chunk046_seg02,46,C (Побут і хобі (Skills & Hobbies)),C_National_Geographic_Ukrayina_Panova_Donbas_ta_holuby_2_2013.txt,sentence-oracle,2,7,False,PERIOD
+chunk048_seg01,48,C (Побут і хобі (Skills & Hobbies)),C_Kvity_Ukrayiny_Klymenko_Dukhmianyy_sad_to_spravzhnia_krykhta_rayu_2013.txt,sentence-oracle,3,3,False,QUESTION
+chunk048_seg02,48,C (Побут і хобі (Skills & Hobbies)),C_Kvity_Ukrayiny_Klymenko_Dukhmianyy_sad_to_spravzhnia_krykhta_rayu_2013.txt,sentence-oracle,3,6,False,PERIOD
+chunk048_seg03,48,C (Побут і хобі (Skills & Hobbies)),C_Kvity_Ukrayiny_Klymenko_Dukhmianyy_sad_to_spravzhnia_krykhta_rayu_2013.txt,sentence-oracle,3,8,False,QUESTION
+chunk049_seg01,49,C (Побут і хобі (Skills & Hobbies)),C_National_Geographic_Ukrayina_Voytenko_Misto_maystriv_1_2013.txt,sentence-oracle,2,12,False,PERIOD
+chunk049_seg02,49,C (Побут і хобі (Skills & Hobbies)),C_National_Geographic_Ukrayina_Voytenko_Misto_maystriv_1_2013.txt,sentence-oracle,2,3,False,QUESTION
+chunk050_seg01,50,C (Побут і хобі (Skills & Hobbies)),C_Plantator_Ketskalo_Morkva_z_rozsady_2018.txt,sentence-oracle,2,15,False,PERIOD
+chunk050_seg02,50,C (Побут і хобі (Skills & Hobbies)),C_Plantator_Ketskalo_Morkva_z_rozsady_2018.txt,sentence-oracle,2,12,False,PERIOD
+chunk051_seg01,51,C (Побут і хобі (Skills & Hobbies)),C_Balandiukh_Virusy_hrypu_sunut_zi_skhodu_2016.txt,sentence-oracle,3,5,False,PERIOD
+chunk051_seg02,51,C (Побут і хобі (Skills & Hobbies)),C_Balandiukh_Virusy_hrypu_sunut_zi_skhodu_2016.txt,sentence-oracle,3,12,False,PERIOD
+chunk051_seg03,51,C (Побут і хобі (Skills & Hobbies)),C_Balandiukh_Virusy_hrypu_sunut_zi_skhodu_2016.txt,sentence-oracle,3,10,False,PERIOD
+chunk052_seg01,52,C (Побут і хобі (Skills & Hobbies)),C_Nashe_ptakhivnytstvo_Krayevska_Ratsion_perepilky_2018.txt,sentence-oracle,2,12,False,PERIOD
+chunk052_seg02,52,C (Побут і хобі (Skills & Hobbies)),C_Nashe_ptakhivnytstvo_Krayevska_Ratsion_perepilky_2018.txt,sentence-oracle,2,13,False,PERIOD
+chunk053_seg01,53,C (Побут і хобі (Skills & Hobbies)),C_Poradnytsia_Zayanchkovska_Yak_z_dopomohoyu_herbariyu_zrobyty_interyer_nepovtornym_2018.txt,sentence-oracle,2,18,False,PERIOD
+chunk053_seg02,53,C (Побут і хобі (Skills & Hobbies)),C_Poradnytsia_Zayanchkovska_Yak_z_dopomohoyu_herbariyu_zrobyty_interyer_nepovtornym_2018.txt,sentence-oracle,2,6,False,PERIOD
+chunk055_seg01,55,C (Побут і хобі (Skills & Hobbies)),C_Organic_UA_Ryba_do_stolu_orhanichnyi_shliakh_2011.txt,sentence-oracle,3,10,False,PERIOD
+chunk055_seg02,55,C (Побут і хобі (Skills & Hobbies)),C_Organic_UA_Ryba_do_stolu_orhanichnyi_shliakh_2011.txt,sentence-oracle,3,19,False,PERIOD
+chunk055_seg03,55,C (Побут і хобі (Skills & Hobbies)),C_Organic_UA_Ryba_do_stolu_orhanichnyi_shliakh_2011.txt,sentence-oracle,3,8,False,QUESTION
+chunk056_seg01,56,C (Побут і хобі (Skills & Hobbies)),C_Poradnytsia_Kostiuchenko_Hospodyniam_na_zamitku_shchob_sup_u_speku_ne_zipsuvavsia_2018.txt,sentence-oracle,1,6,False,QUESTION
+chunk058_seg01,58,"D (Есе, біографії, мемуари (Essays/Biography))",D_Lysheha_Potsilunok_Elly_Fitsdzherald_2_2015.txt,sentence-oracle,2,3,False,QUESTION
+chunk058_seg02,58,"D (Есе, біографії, мемуари (Essays/Biography))",D_Lysheha_Potsilunok_Elly_Fitsdzherald_2_2015.txt,sentence-oracle,2,8,False,PERIOD
+chunk059_seg01,59,"D (Есе, біографії, мемуари (Essays/Biography))",D_Protsiuk_Ta_shcho_zalyshylasia_v_sertsi_2014.txt,sentence-oracle,3,13,False,PERIOD
+chunk059_seg02,59,"D (Есе, біографії, мемуари (Essays/Biography))",D_Protsiuk_Ta_shcho_zalyshylasia_v_sertsi_2014.txt,sentence-oracle,3,14,False,PERIOD
+chunk059_seg03,59,"D (Есе, біографії, мемуари (Essays/Biography))",D_Protsiuk_Ta_shcho_zalyshylasia_v_sertsi_2014.txt,sentence-oracle,3,7,False,PERIOD
+chunk060_seg01,60,"D (Есе, біографії, мемуари (Essays/Biography))",D_Protsiuk_Istoria_odnoho_peretvorennia_2014.txt,sentence-oracle,2,3,False,QUESTION
+chunk060_seg02,60,"D (Есе, біографії, мемуари (Essays/Biography))",D_Protsiuk_Istoria_odnoho_peretvorennia_2014.txt,sentence-oracle,2,19,False,PERIOD
+chunk061_seg01,61,"D (Есе, біографії, мемуари (Essays/Biography))",D_Yermolenko_Daleki_blyzki_1_2015.txt,sentence-oracle,2,11,False,PERIOD
+chunk061_seg02,61,"D (Есе, біографії, мемуари (Essays/Biography))",D_Yermolenko_Daleki_blyzki_1_2015.txt,sentence-oracle,2,13,False,PERIOD
+chunk062_seg01,62,"D (Есе, біографії, мемуари (Essays/Biography))",D_LitAktsent_Panchenko_Potriben_Natsionalnyi_Panteon_2017.txt,sentence-oracle,3,3,False,QUESTION
+chunk062_seg02,62,"D (Есе, біографії, мемуари (Essays/Biography))",D_LitAktsent_Panchenko_Potriben_Natsionalnyi_Panteon_2017.txt,sentence-oracle,3,11,False,QUESTION
+chunk062_seg03,62,"D (Есе, біографії, мемуари (Essays/Biography))",D_LitAktsent_Panchenko_Potriben_Natsionalnyi_Panteon_2017.txt,sentence-oracle,3,12,False,QUESTION
+chunk064_seg01,64,"D (Есе, біографії, мемуари (Essays/Biography))",D_Nash_Format_vydav_knyhu_Ayn_Rend_2015.txt,sentence-oracle,1,20,False,PERIOD
+chunk065_seg01,65,"D (Есе, біографії, мемуари (Essays/Biography))",D_Liubka_Spaty_z_zhinkamy_1_2015.txt,sentence-oracle,1,8,False,PERIOD
+chunk068_seg01,68,"D (Есе, біографії, мемуари (Essays/Biography))",D_Sverstiuk_Hohol_2013.txt,sentence-oracle,2,11,False,QUESTION
+chunk068_seg02,68,"D (Есе, біографії, мемуари (Essays/Biography))",D_Sverstiuk_Hohol_2013.txt,sentence-oracle,2,5,False,QUESTION
+chunk069_seg01,69,"D (Есе, біографії, мемуари (Essays/Biography))",D_Humeniuk_Maidan_Takhrir_1_2015.txt,sentence-oracle,2,18,False,QUESTION
+chunk069_seg02,69,"D (Есе, біографії, мемуари (Essays/Biography))",D_Humeniuk_Maidan_Takhrir_1_2015.txt,sentence-oracle,2,13,False,QUESTION
+chunk070_seg01,70,"D (Есе, біографії, мемуари (Essays/Biography))",D_Vdovychenko_36_i_6_kotiv_3_2015.txt,sentence-oracle,2,13,False,PERIOD
+chunk070_seg02,70,"D (Есе, біографії, мемуари (Essays/Biography))",D_Vdovychenko_36_i_6_kotiv_3_2015.txt,sentence-oracle,2,37,False,PERIOD
+chunk072_seg01,72,"D (Есе, біографії, мемуари (Essays/Biography))",D_Protsiuk_Mizh_zabuttiam_i_pamiattiu_2014.txt,sentence-oracle,1,8,False,PERIOD
+chunk075_seg01,75,"D (Есе, біографії, мемуари (Essays/Biography))",D_Yermolenko_Zyma_yak_metafora_2018.txt,sentence-oracle,4,11,False,QUESTION
+chunk075_seg02,75,"D (Есе, біографії, мемуари (Essays/Biography))",D_Yermolenko_Zyma_yak_metafora_2018.txt,sentence-oracle,4,4,False,QUESTION
+chunk075_seg03,75,"D (Есе, біографії, мемуари (Essays/Biography))",D_Yermolenko_Zyma_yak_metafora_2018.txt,sentence-oracle,4,8,False,QUESTION
+chunk075_seg04,75,"D (Есе, біографії, мемуари (Essays/Biography))",D_Yermolenko_Zyma_yak_metafora_2018.txt,sentence-oracle,4,13,False,PERIOD
+chunk076_seg01,76,"D (Есе, біографії, мемуари (Essays/Biography))",D_Vykhovanets_Rozmovlyaymo_ukrayinskoyu_1_2012.txt,sentence-oracle,2,16,False,PERIOD
+chunk076_seg02,76,"D (Есе, біографії, мемуари (Essays/Biography))",D_Vykhovanets_Rozmovlyaymo_ukrayinskoyu_1_2012.txt,sentence-oracle,2,14,False,PERIOD
+chunk079_seg01,79,F (Науково-популярні тексти (Popular Science)),F_Shcherbachenko_Yak_ne_zablukaty_v_Pavutyni_1_2013.txt,sentence-oracle,2,18,False,PERIOD
+chunk079_seg02,79,F (Науково-популярні тексти (Popular Science)),F_Shcherbachenko_Yak_ne_zablukaty_v_Pavutyni_1_2013.txt,sentence-oracle,2,7,False,PERIOD
+chunk080_seg01,80,F (Науково-популярні тексти (Popular Science)),F_Sanina_Himnastyka_mozku_1_2014.txt,sentence-oracle,2,18,False,PERIOD
+chunk080_seg02,80,F (Науково-популярні тексти (Popular Science)),F_Sanina_Himnastyka_mozku_1_2014.txt,sentence-oracle,2,18,False,PERIOD
+chunk081_seg01,81,F (Науково-популярні тексти (Popular Science)),F_Heohrafiya_dlia_dopytlyvykh_Sieriebriannikova_Liodovykovyi_period_Ne_strashno_2011.txt,sentence-oracle,2,3,False,QUESTION
+chunk081_seg02,81,F (Науково-популярні тексти (Popular Science)),F_Heohrafiya_dlia_dopytlyvykh_Sieriebriannikova_Liodovykovyi_period_Ne_strashno_2011.txt,sentence-oracle,2,22,False,PERIOD
+chunk083_seg01,83,F (Науково-популярні тексти (Popular Science)),F_Kolosok_Nikishova_Vpiznay_element_za_osoblyvymy_prykmetamy_2015.txt,sentence-oracle,4,7,False,PERIOD
+chunk083_seg02,83,F (Науково-популярні тексти (Popular Science)),F_Kolosok_Nikishova_Vpiznay_element_za_osoblyvymy_prykmetamy_2015.txt,sentence-oracle,4,12,False,PERIOD
+chunk083_seg03,83,F (Науково-популярні тексти (Popular Science)),F_Kolosok_Nikishova_Vpiznay_element_za_osoblyvymy_prykmetamy_2015.txt,sentence-oracle,4,17,False,PERIOD
+chunk083_seg04,83,F (Науково-популярні тексти (Popular Science)),F_Kolosok_Nikishova_Vpiznay_element_za_osoblyvymy_prykmetamy_2015.txt,sentence-oracle,4,12,False,QUESTION
+chunk086_seg01,86,F (Науково-популярні тексти (Popular Science)),F_Smal_Yulya_Tsikava_khimiya_Zhyttyepys_rechovyn_3_2016.txt,sentence-oracle,2,8,False,QUESTION
+chunk086_seg02,86,F (Науково-популярні тексти (Popular Science)),F_Smal_Yulya_Tsikava_khimiya_Zhyttyepys_rechovyn_3_2016.txt,sentence-oracle,2,7,False,QUESTION
+chunk087_seg01,87,F (Науково-популярні тексти (Popular Science)),F_Khudozhnyky_ukrayinskoho_avanhradu_Hra_dlya_ditey_2_2015.txt,sentence-oracle,1,15,False,PERIOD
+chunk088_seg01,88,F (Науково-популярні тексти (Popular Science)),F_Fizyka_dlia_dopytlyvykh_Zahvozkina_Scho_take_zvuk_2013.txt,sentence-oracle,1,5,False,QUESTION
+chunk089_seg01,89,F (Науково-популярні тексти (Popular Science)),F_Kolosok_Bida_Shcho_take_teplota_2015.txt,sentence-oracle,4,10,False,QUESTION
+chunk089_seg02,89,F (Науково-популярні тексти (Popular Science)),F_Kolosok_Bida_Shcho_take_teplota_2015.txt,sentence-oracle,4,3,False,QUESTION
+chunk089_seg03,89,F (Науково-популярні тексти (Popular Science)),F_Kolosok_Bida_Shcho_take_teplota_2015.txt,sentence-oracle,4,9,False,QUESTION
+chunk089_seg04,89,F (Науково-популярні тексти (Popular Science)),F_Kolosok_Bida_Shcho_take_teplota_2015.txt,sentence-oracle,4,10,False,QUESTION
+chunk090_seg01,90,F (Науково-популярні тексти (Popular Science)),F_Istoriya_dlia_dopytlyvykh_Siadro_Zahadky_pravytelky_Sofii_2013.txt,sentence-oracle,1,11,False,QUESTION
+chunk091_seg01,91,F (Науково-популярні тексти (Popular Science)),F_Sukhomlyn_Hryby_Ukrayiny_3_2013.txt,sentence-oracle,3,17,False,PERIOD
+chunk091_seg02,91,F (Науково-популярні тексти (Popular Science)),F_Sukhomlyn_Hryby_Ukrayiny_3_2013.txt,sentence-oracle,3,27,False,PERIOD
+chunk091_seg03,91,F (Науково-популярні тексти (Popular Science)),F_Sukhomlyn_Hryby_Ukrayiny_3_2013.txt,sentence-oracle,3,8,False,PERIOD
+chunk093_seg01,93,F (Науково-популярні тексти (Popular Science)),F_Bedenko_Knyha_yunoho_biznesmena_1_2014.txt,sentence-oracle,3,9,False,QUESTION
+chunk093_seg02,93,F (Науково-популярні тексти (Popular Science)),F_Bedenko_Knyha_yunoho_biznesmena_1_2014.txt,sentence-oracle,3,9,False,QUESTION
+chunk093_seg03,93,F (Науково-популярні тексти (Popular Science)),F_Bedenko_Knyha_yunoho_biznesmena_1_2014.txt,sentence-oracle,3,3,False,QUESTION
+chunk094_seg01,94,F (Науково-популярні тексти (Popular Science)),F_Smal_Yulya_Tsikava_khimiya_Zhyttyepys_rechovyn_2_2016.txt,sentence-oracle,1,5,False,QUESTION
+chunk095_seg01,95,F (Науково-популярні тексти (Popular Science)),F_Sanina_Himnastyka_mozku_2_2014.txt,sentence-oracle,1,4,False,QUESTION
+chunk097_seg01,97,G (Наукові тексти (Science)),G_Vilchynskyi_Transformatsiya_rayonnoyi_presy_2015.txt,sentence-oracle,1,9,False,QUESTION
+chunk098_seg01,98,G (Наукові тексти (Science)),G_Labashchuk_Natalnyy_naratyv_i_usna_tradytsiya_1_2013.txt,sentence-oracle,1,18,False,PERIOD
+chunk099_seg01,99,G (Наукові тексти (Science)),G_Popova_Pozasystemnyi_syntaksychnyi_zvyazok_2013.txt,sentence-oracle,1,8,False,PERIOD
+chunk100_seg01,100,G (Наукові тексти (Science)),G_Demenko_Pozablokovyi_status_Ukrayiny_realiyi_ta_perspektyvy_2_2010.txt,sentence-oracle,1,7,False,QUESTION
+chunk101_seg01,101,G (Наукові тексти (Science)),G_Nauka_i_oborona_Kachynskyi_Natsionalna_bezpeka_ta_hlobalni_zminy_klimatu_1_2013.txt,sentence-oracle,2,30,False,PERIOD
+chunk101_seg02,101,G (Наукові тексти (Science)),G_Nauka_i_oborona_Kachynskyi_Natsionalna_bezpeka_ta_hlobalni_zminy_klimatu_1_2013.txt,sentence-oracle,2,23,False,PERIOD
+chunk115_seg01,115,H (Підручники (Textbooks)),H_Soroka_Biudzhetna_systema_4_2011.txt,sentence-oracle,1,29,False,PERIOD
+chunk120_seg01,120,H (Підручники (Textbooks)),H_Pometun_Istoriia_Ukrainy_1_2012.txt,sentence-oracle,6,8,False,QUESTION
+chunk120_seg02,120,H (Підручники (Textbooks)),H_Pometun_Istoriia_Ukrainy_1_2012.txt,sentence-oracle,6,10,False,QUESTION
+chunk120_seg03,120,H (Підручники (Textbooks)),H_Pometun_Istoriia_Ukrainy_1_2012.txt,sentence-oracle,6,6,False,QUESTION
+chunk120_seg04,120,H (Підручники (Textbooks)),H_Pometun_Istoriia_Ukrainy_1_2012.txt,sentence-oracle,6,12,False,QUESTION
+chunk120_seg05,120,H (Підручники (Textbooks)),H_Pometun_Istoriia_Ukrainy_1_2012.txt,sentence-oracle,6,5,False,QUESTION
+chunk120_seg06,120,H (Підручники (Textbooks)),H_Pometun_Istoriia_Ukrainy_1_2012.txt,sentence-oracle,6,7,False,QUESTION
+chunk122_seg01,122,H (Підручники (Textbooks)),H_Bublyk_Obyektno_oriyentovane_prohramuvannya_2_2015.txt,sentence-oracle,1,13,False,PERIOD
+chunk123_seg01,123,H (Підручники (Textbooks)),H_Semenyuk_Ukraiinska_literatura_11_klas_2_2011.txt,sentence-oracle,1,30,False,PERIOD
+chunk125_seg01,125,H (Підручники (Textbooks)),H_Narovlianskyi_Osnovy_pravoznavstva_1_2017.txt,sentence-oracle,1,8,False,QUESTION
+chunk126_seg01,126,H (Підручники (Textbooks)),H_Holod_Strakhuvannia_v_turystychniy_diyalnosti_2_2016.txt,sentence-oracle,2,121,False,PERIOD
+chunk126_seg02,126,H (Підручники (Textbooks)),H_Holod_Strakhuvannia_v_turystychniy_diyalnosti_2_2016.txt,sentence-oracle,2,28,False,PERIOD
+chunk128_seg01,128,H (Підручники (Textbooks)),H_Pometun_Istoriia_Ukrainy_2_2012.txt,sentence-oracle,3,11,False,PERIOD
+chunk128_seg02,128,H (Підручники (Textbooks)),H_Pometun_Istoriia_Ukrainy_2_2012.txt,sentence-oracle,3,4,False,PERIOD
+chunk128_seg03,128,H (Підручники (Textbooks)),H_Pometun_Istoriia_Ukrainy_2_2012.txt,sentence-oracle,3,10,False,QUESTION
+chunk130_seg01,130,H (Підручники (Textbooks)),H_Pestushko_Heohrafiya_2_2014.txt,sentence-oracle,1,9,False,PERIOD
+chunk131_seg01,131,H (Підручники (Textbooks)),H_Albul_Osnovy_operatyvno-rozshukovoyi_diyalnosti_3_2016.txt,sentence-oracle,1,18,False,PERIOD
+chunk132_seg01,132,H (Підручники (Textbooks)),H_Baryakhtar_Fizyka_1_2017.txt,sentence-oracle,6,4,False,QUESTION
+chunk132_seg02,132,H (Підручники (Textbooks)),H_Baryakhtar_Fizyka_1_2017.txt,sentence-oracle,6,3,False,QUESTION
+chunk132_seg03,132,H (Підручники (Textbooks)),H_Baryakhtar_Fizyka_1_2017.txt,sentence-oracle,6,8,False,QUESTION
+chunk132_seg04,132,H (Підручники (Textbooks)),H_Baryakhtar_Fizyka_1_2017.txt,sentence-oracle,6,7,False,QUESTION
+chunk132_seg05,132,H (Підручники (Textbooks)),H_Baryakhtar_Fizyka_1_2017.txt,sentence-oracle,6,10,False,QUESTION
+chunk132_seg06,132,H (Підручники (Textbooks)),H_Baryakhtar_Fizyka_1_2017.txt,sentence-oracle,6,9,False,QUESTION

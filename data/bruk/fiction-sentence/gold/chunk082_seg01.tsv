@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Її	O	CAP
+переляк	COMMA	O
+гарячий	O	O
+шепіт	COMMA	O
+оголене	O	O
+пружне	O	O
+тіло	COMMA	O
+її	O	O
+запах	COMMA	O
+часте	O	O
+биття	O	O
+серця	PERIOD	O

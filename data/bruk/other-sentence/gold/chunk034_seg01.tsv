@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+не	O	O
+забагато	O	O
+ми	O	O
+проповідуємо	O	O
+Виправдання	QUESTION	CAP

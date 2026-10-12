@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+Воно	O	CAP
+постає	O	O
+перед	O	O
+нашим	O	O
+розумом	O	O
+як	O	O
+щось	O	O
+центральне	COMMA	O
+навколо	O	O
+якого	O	O
+групуються	O	O
+інші	O	O
+мовні	O	O
+одиниці	PERIOD	O

@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+означає	O	O
+кожне	O	O
+слово	O	O
+із	O	O
+дороговказів	O	O
+Господніх	QUESTION	CAP

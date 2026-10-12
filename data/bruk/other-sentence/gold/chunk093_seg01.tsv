@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Як	O	CAP
+купувати	O	O
+за	O	O
+білячі	O	O
+шкурки	COMMA	O
+або	O	O
+що	O	O
+таке	O	O
+гроші	QUESTION	O

@@ -1,0 +1,14 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+не	O	O
+папараці	O	O
+часом	COMMA	O
+що	O	O
+він	O	O
+без	O	O
+запрошення	O	O
+пробрався	O	O
+на	O	O
+забаву	O	O
+за	O	O
+компроматом	QUESTION	O

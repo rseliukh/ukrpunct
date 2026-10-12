@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+знали	O	O
+про	O	O
+неї	O	O
+ті	COMMA	O
+хто	O	O
+відповідає	O	O
+в	O	O
+Україні	O	CAP
+за	O	O
+політику	O	O
+пам'яті	QUESTION	O

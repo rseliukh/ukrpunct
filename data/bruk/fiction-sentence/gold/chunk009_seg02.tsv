@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Ідемо	O	CAP
+на	O	O
+Львів	O	CAP
+через	O	O
+Київ	PERIOD	CAP

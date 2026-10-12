@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Чому	O	CAP
+грім	O	O
+чути	O	O
+пізніше	O	O
+за	O	O
+спалах	O	O
+блискавки	QUESTION	O

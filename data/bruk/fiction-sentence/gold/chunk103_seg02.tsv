@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Як	O	CAP
+там	O	O
+вона	COMMA	O
+бідолаха	QUESTION	O

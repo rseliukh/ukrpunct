@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Цікаво	COMMA	CAP
+який-то	O	O
+з	O	O
+нього	O	O
+чернець	QUESTION	O

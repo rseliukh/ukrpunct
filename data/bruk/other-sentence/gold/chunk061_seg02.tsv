@@ -1,0 +1,14 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+теорія	O	O
+магнетизувала	O	O
+не	O	O
+тільки	O	O
+лікарів	O	O
+і	O	O
+хворих	COMMA	O
+але	O	O
+й	O	O
+багато	O	O
+кого	O	O
+ще	PERIOD	O

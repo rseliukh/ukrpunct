@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Жінки	O	CAP
+затуляли	O	O
+вуха	O	O
+й	O	O
+плакали	COMMA	O
+рвалися	O	O
+допомогти	O	O
+нещасним	O	O
+тваринам	PERIOD	O

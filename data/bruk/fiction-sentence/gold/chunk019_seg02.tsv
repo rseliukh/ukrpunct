@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Але	O	CAP
+як	O	O
+туди	O	O
+потрапити	QUESTION	O

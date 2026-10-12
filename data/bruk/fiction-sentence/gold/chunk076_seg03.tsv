@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+А	O	CAP
+де	O	O
+вихід	COMMA	O
+ти	COMMA	O
+що	O	O
+єси	O	O
+на	O	O
+небесах	QUESTION	O

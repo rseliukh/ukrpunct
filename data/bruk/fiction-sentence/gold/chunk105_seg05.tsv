@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Чом	O	CAP
+би	O	O
+й	O	O
+не	O	O
+на	O	O
+м'якій	O	O
+хмарині	QUESTION	O

@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Наскільки	O	CAP
+довго	O	O
+вона	O	O
+протягне	QUESTION	O

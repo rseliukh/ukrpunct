@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+Вона	COMMA	CAP
+як	O	O
+кожна	O	O
+матуся	COMMA	O
+любила	O	O
+своє	O	O
+дитятко	O	O
+і	O	O
+нічого	O	O
+особливого	O	O
+в	O	O
+ньому	O	O
+не	O	O
+помічала	PERIOD	O

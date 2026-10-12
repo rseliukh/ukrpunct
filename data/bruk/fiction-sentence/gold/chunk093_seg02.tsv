@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Так	COMMA	CAP
+ніби	O	O
+то	O	O
+не	O	O
+вона	O	O
+малює	COMMA	O
+а	O	O
+щось	O	O
+інше	O	O
+її	O	O
+рукою	O	O
+водить	PERIOD	O

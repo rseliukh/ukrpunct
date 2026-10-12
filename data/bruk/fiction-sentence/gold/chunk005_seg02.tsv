@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+Чому	O	CAP
+ж	O	O
+ти	O	O
+зміг	O	O
+прийняти	O	O
+інших	O	O
+жінок	COMMA	O
+хай	O	O
+лишень	O	O
+тілесно	COMMA	O
+однак	O	O
+ти	O	O
+їх	O	O
+прийняв	QUESTION	O

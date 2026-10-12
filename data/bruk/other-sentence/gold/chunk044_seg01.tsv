@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+Які	O	CAP
+ж	O	O
+боєприпаси	O	O
+та	O	O
+зброю	O	O
+використовують	O	O
+мисливці	O	O
+України	O	CAP
+та	O	O
+інших	O	O
+країн	O	O
+для	O	O
+добування	O	O
+козулі	QUESTION	O

@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+Для	O	CAP
+чого	O	O
+в	O	O
+студіях	O	O
+звукозапису	O	O
+стіни	O	O
+вкривають	O	O
+шаром	O	O
+звукопоглинальних	O	O
+матеріалів	QUESTION	O

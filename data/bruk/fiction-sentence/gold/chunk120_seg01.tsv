@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Але	O	CAP
+нащо	O	O
+їй	O	O
+тепер	O	O
+летіти	O	O
+стрімголов	QUESTION	O

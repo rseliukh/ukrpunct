@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Дим	O	CAP
+валує	COMMA	O
+лежанка	O	O
+тепла	PERIOD	O

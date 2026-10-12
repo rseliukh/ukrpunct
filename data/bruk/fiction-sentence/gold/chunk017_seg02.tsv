@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Регочуть	COMMA	CAP
+аж	O	O
+в	O	O
+кімнаті	O	O
+гуде	PERIOD	O

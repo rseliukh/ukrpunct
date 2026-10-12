@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Невже	O	CAP
+він	O	O
+такий	O	O
+легкий	QUESTION	O

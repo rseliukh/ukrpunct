@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+Хоч	O	CAP
+вона	O	O
+ще	O	O
+не	O	O
+дійшла	O	O
+до	O	O
+кінця	COMMA	O
+по	O	O
+настилу	O	O
+вже	O	O
+бігли	O	O
+люди	O	O
+в	O	O
+шоломах	PERIOD	O

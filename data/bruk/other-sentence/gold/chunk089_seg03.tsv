@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Але	O	CAP
+чи	O	O
+означає	O	O
+це	COMMA	O
+що	O	O
+між	O	O
+ними	O	O
+відбудеться	O	O
+теплообмін	QUESTION	O

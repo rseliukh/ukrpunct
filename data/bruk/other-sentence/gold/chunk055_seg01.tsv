@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+Виловлені	O	CAP
+в	O	O
+океані	O	O
+чи	O	O
+морській	O	O
+акваторії	O	O
+морепродукти	O	O
+не	O	O
+є	O	O
+органічними	PERIOD	O

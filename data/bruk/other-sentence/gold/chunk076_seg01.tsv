@@ -1,0 +1,17 @@
+token	punct_tag	cap_tag
+Це	O	CAP
+єдине	O	O
+знаряддя	COMMA	O
+що	O	O
+вивищує	O	O
+людину	O	O
+над	O	O
+світом	COMMA	O
+робить	O	O
+її	O	O
+нездоланною	O	O
+в	O	O
+пошуках	O	O
+правди	O	O
+і	O	O
+справжності	PERIOD	O

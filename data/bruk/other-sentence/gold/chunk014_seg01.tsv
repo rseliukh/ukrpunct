@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Їхні	O	CAP
+жінки	O	O
+дуже	O	O
+меркантильні	PERIOD	O

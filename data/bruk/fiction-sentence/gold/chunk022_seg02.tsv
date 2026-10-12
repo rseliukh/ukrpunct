@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Добрі	O	CAP
+будуть	O	O
+священики	O	O
+з	O	O
+Пилипа	O	CAP
+й	O	O
+Тараса	PERIOD	CAP

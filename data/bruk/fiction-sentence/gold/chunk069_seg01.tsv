@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Добираються	O	CAP
+на	O	O
+Тернопілля	O	CAP
+удвох	PERIOD	O

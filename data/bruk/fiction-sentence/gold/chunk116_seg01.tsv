@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+А	O	CAP
+потім	O	O
+таки	O	O
+погодилась	PERIOD	O

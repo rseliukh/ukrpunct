@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+А	O	CAP
+чого	O	O
+мені	O	O
+ще	O	O
+бажати	QUESTION	O

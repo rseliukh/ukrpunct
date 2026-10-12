@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Нє	COMMA	CAP
+нє	COMMA	O
+це	O	O
+нерозумно	COMMA	O
+для	O	O
+чого	O	O
+нам	O	O
+робочі	O	O
+романи	QUESTION	O

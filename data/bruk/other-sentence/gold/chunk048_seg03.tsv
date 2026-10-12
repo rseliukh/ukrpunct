@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+може	O	O
+бути	O	O
+щось	O	O
+приємніше	O	O
+у	O	O
+нічному	O	O
+саду	QUESTION	O

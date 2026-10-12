@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Найглибшим	O	CAP
+є	O	O
+Тихий	O	CAP
+океан	COMMA	O
+а	O	O
+наймілководнішим	O	O
+Північний	O	CAP
+Льодовитий	O	CAP
+океан	PERIOD	O

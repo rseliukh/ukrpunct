@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Означає	O	CAP
+плинність	O	O
+часу	COMMA	O
+сум	O	O
+і	O	O
+радість	COMMA	O
+осінь	O	O
+та	O	O
+весну	COMMA	O
+життя	O	O
+і	O	O
+смерть	PERIOD	O

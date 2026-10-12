@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+Віталік	O	CAP
+лише	O	O
+знизав	O	O
+присоромлено	O	O
+плечима	O	O
+і	O	O
+навіть	O	O
+ледь	O	O
+не	O	O
+розплакався	PERIOD	O

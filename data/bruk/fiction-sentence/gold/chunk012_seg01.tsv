@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Колеса	O	CAP
+млинів	O	O
+тих	O	O
+піднімались	O	O
+вище	O	O
+від	O	O
+їхніх	O	O
+дахів	PERIOD	O

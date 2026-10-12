@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Один	O	CAP
+із	O	O
+них	COMMA	O
+дев'ятнадцятирічний	O	O
+хлопчина	COMMA	O
+навіть	O	O
+не	O	O
+встиг	O	O
+узяти	O	O
+собі	O	O
+позивний	PERIOD	O

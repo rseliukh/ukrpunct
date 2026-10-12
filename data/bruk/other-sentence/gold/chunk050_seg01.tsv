@@ -1,0 +1,16 @@
+token	punct_tag	cap_tag
+Серед	O	CAP
+переваг	O	O
+є	O	O
+менші	O	O
+витрати	O	O
+посівного	O	O
+матеріалу	O	O
+та	O	O
+відсутність	O	O
+затрат	O	O
+людської	O	O
+праці	O	O
+на	O	O
+проріджування	O	O
+посівів	PERIOD	O

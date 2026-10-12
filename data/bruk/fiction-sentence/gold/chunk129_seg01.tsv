@@ -1,0 +1,14 @@
+token	punct_tag	cap_tag
+Та	O	CAP
+коли	O	O
+мені	O	O
+виповнилося	O	O
+чотирнадцять	COMMA	O
+мама	O	O
+отримала	O	O
+роботу	O	O
+в	O	O
+університеті	O	O
+на	O	O
+півночі	O	O
+Швеції	PERIOD	CAP

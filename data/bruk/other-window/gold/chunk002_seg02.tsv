@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Ще	O	CAP
+з	O	O
+Днем	O	CAP
+Незалежності	O	CAP
+вітав	O	O
+подорожніх	O	O
+Вадим	O	CAP
+Рабінович	COMMA	CAP
+принагідно	O	O
+щось	O	O
+обіцяючи	PERIOD	O

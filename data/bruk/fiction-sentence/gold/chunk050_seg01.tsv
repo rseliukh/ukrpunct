@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Яскраво-жовтий	O	CAP
+банан	O	O
+на	O	O
+сірому	O	O
+асфальті	PERIOD	O

@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+І	COMMA	CAP
+головне	COMMA	O
+кому	QUESTION	O

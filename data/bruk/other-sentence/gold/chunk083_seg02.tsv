@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+А	O	CAP
+ось	O	O
+цезій	O	O
+має	O	O
+колір	COMMA	O
+близький	O	O
+до	O	O
+традиційного	O	O
+жовтого	O	O
+золота	COMMA	O
+але	O	O
+світліший	PERIOD	O

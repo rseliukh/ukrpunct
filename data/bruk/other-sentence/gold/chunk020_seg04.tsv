@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+Вламати	O	CAP
+голодному	O	O
+хліба	O	O
+свого	COMMA	O
+а	O	O
+вбогих	O	O
+бідаків	O	O
+до	O	O
+дому	O	O
+впровадити	QUESTION	O

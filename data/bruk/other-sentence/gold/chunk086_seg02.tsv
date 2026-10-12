@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Пам'ятаєш	COMMA	CAP
+що	O	O
+тепер	O	O
+у	O	O
+нас	O	O
+2016-й	O	O
+рік	QUESTION	O

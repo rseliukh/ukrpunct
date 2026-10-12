@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Отже	COMMA	CAP
+що	O	O
+сталося	QUESTION	O

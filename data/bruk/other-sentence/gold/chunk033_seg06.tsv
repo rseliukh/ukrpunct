@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+фальсифікувати	O	O
+документи	QUESTION	O

@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+По	O	CAP
+бірюзовій	O	O
+бані	O	O
+неба	O	O
+купками	O	O
+білого	O	O
+диму	O	O
+пропливають	O	O
+світлі	O	O
+хмарки	PERIOD	O

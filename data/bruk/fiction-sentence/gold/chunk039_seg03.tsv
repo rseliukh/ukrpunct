@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+там	O	O
+ще	O	O
+в	O	O
+минулі	O	O
+часи	O	O
+мав	O	O
+робити	O	O
+правильний	O	O
+мужик	COMMA	O
+батько	O	O
+сімейства	QUESTION	O

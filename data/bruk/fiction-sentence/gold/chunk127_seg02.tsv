@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Та	O	CAP
+основним	O	O
+заробком	O	O
+Амфібрахія	O	CAP
+у	O	O
+цю	O	O
+пору	O	O
+була	O	O
+допомога	O	O
+на	O	O
+жнивах	PERIOD	O

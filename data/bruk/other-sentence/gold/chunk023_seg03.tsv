@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+В	O	CAP
+чому	O	O
+причина	O	O
+наших	O	O
+тривалих	O	O
+негараздів	O	O
+та	O	O
+як	O	O
+налагодити	O	O
+гідне	O	O
+життя	O	O
+суспільства	QUESTION	O

@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+є	O	O
+такі	COMMA	O
+кого	O	O
+не	O	O
+цікавлять	O	O
+усілякі	O	O
+вибухи	QUESTION	O

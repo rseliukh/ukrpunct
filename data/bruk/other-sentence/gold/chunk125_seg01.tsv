@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Що	COMMA	CAP
+на	O	O
+вашу	O	O
+думку	COMMA	O
+спільного	O	O
+в	O	O
+цих	O	O
+ситуаціях	QUESTION	O

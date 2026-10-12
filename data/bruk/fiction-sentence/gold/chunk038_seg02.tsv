@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Адже	O	CAP
+Франц	COMMA	CAP
+вірогідно	COMMA	O
+рушить	O	O
+до	O	O
+Якова	O	CAP
+мене	O	O
+визволяти	PERIOD	O

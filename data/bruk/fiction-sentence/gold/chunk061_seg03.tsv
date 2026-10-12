@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+подобається	O	O
+Богові	O	CAP
+пити	O	O
+каву	O	O
+з	O	O
+ковбасою	QUESTION	O

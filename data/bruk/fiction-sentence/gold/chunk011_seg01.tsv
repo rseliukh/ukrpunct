@@ -1,0 +1,14 @@
+token	punct_tag	cap_tag
+Коли	O	CAP
+б	O	O
+не	O	O
+той	O	O
+страх	COMMA	O
+хіба	O	O
+б	O	O
+він	O	O
+рвонув	O	O
+із	O	O
+отим	O	O
+собацюрою	O	O
+Семарглом	QUESTION	CAP

@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+Яку	O	CAP
+роль	O	O
+відводили	O	O
+більшовицькі	O	O
+керівники	O	O
+культурі	O	O
+у	O	O
+розбудові	O	O
+радянської	O	O
+держави	QUESTION	O

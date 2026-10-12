@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+буде	O	O
+з	O	O
+нами	COMMA	O
+Корнелю	QUESTION	CAP

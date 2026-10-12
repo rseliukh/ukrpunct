@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Чим	O	CAP
+обмеженіша	O	O
+людина	COMMA	O
+тим	O	O
+легше	O	O
+ЇЇ	O	CAP
+зробити	O	O
+залежною	PERIOD	O

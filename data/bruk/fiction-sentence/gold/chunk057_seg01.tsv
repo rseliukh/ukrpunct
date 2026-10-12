@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+тому	COMMA	O
+що	O	O
+сюди	O	O
+приходжу	O	O
+я	QUESTION	O

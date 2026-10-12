@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+А	O	CAP
+що	O	O
+ж	O	O
+тоді	O	O
+Гоголь	O	CAP
+переписував	O	O
+багато	O	O
+разів	O	O
+і	O	O
+що	O	O
+спалював	QUESTION	O

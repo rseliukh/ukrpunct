@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+Як	O	CAP
+можна	O	O
+забрати	O	O
+у	O	O
+тіла	O	O
+або	COMMA	O
+навпаки	COMMA	O
+передати	O	O
+йому	O	O
+енергію	QUESTION	O

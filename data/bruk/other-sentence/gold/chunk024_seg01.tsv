@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Заповіді	O	CAP
+виникали	O	O
+із	O	O
+потребами	O	O
+людини	PERIOD	O

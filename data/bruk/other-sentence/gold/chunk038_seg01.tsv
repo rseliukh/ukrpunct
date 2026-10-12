@@ -1,0 +1,17 @@
+token	punct_tag	cap_tag
+І	O	CAP
+тільки	O	O
+в	O	O
+шлюбі	O	O
+подружжя	O	O
+взаємно	O	O
+збагачує	O	O
+один	O	O
+одного	O	O
+властивостями	O	O
+і	O	O
+якостями	COMMA	O
+властивими	O	O
+лише	O	O
+своїй	O	O
+статі	PERIOD	O

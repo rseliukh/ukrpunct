@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Знову-таки	COMMA	CAP
+чимось	O	O
+із	O	O
+царини	O	O
+моралі	PERIOD	O

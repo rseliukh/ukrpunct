@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Так	O	CAP
+називається	O	O
+цей	O	O
+камінчик	QUESTION	O

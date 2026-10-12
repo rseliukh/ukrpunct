@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Ну	COMMA	CAP
+як	O	O
+тобі	O	O
+тут	O	O
+сидиться	QUESTION	O

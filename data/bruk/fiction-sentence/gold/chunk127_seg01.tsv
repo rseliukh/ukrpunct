@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+вірив	O	O
+у	O	O
+все	O	O
+це	O	O
+сам	O	O
+Амфібрахій	QUESTION	CAP

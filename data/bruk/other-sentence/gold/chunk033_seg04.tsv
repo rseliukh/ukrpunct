@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+купувати	O	O
+її	O	O
+взагалі	QUESTION	O

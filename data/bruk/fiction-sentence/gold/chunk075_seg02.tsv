@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+І	O	CAP
+треба	O	O
+воно	O	O
+було	O	O
+йому	QUESTION	O

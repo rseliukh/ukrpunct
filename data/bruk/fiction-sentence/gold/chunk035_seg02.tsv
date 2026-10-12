@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Цей	O	CAP
+голос	O	O
+закутував	O	O
+і	O	O
+огортав	COMMA	O
+ніс	O	O
+у	O	O
+собі	O	O
+тепло	PERIOD	O

@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Ніби	O	CAP
+як	O	O
+батьки	O	O
+поїхали	O	O
+у	O	O
+відпустку	O	O
+й	O	O
+залишили	O	O
+на	O	O
+нього	O	O
+квартиру	PERIOD	O

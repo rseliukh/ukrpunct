@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+знав	O	O
+про	O	O
+це	O	O
+Гоголь	QUESTION	CAP

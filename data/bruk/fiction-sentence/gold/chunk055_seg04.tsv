@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+У	O	CAP
+ній	O	O
+були	O	O
+зібрані	O	O
+рідкісні	O	O
+квіти	O	O
+й	O	O
+рослини	O	O
+з	O	O
+найвіддаленіших	O	O
+куточків	O	O
+планети	PERIOD	O

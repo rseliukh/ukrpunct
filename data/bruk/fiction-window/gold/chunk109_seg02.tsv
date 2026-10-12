@@ -1,0 +1,17 @@
+token	punct_tag	cap_tag
+Тому	O	CAP
+я	O	O
+не	O	O
+розумію	COMMA	O
+навіщо	O	O
+від	O	O
+нас	O	O
+вимагають	O	O
+суворого	O	O
+звіту	O	O
+й	O	O
+особистого	O	O
+підпису	O	O
+за	O	O
+кожен	O	O
+набій	PERIOD	O

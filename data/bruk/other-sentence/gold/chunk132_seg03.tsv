@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Чому	O	CAP
+неможливо	O	O
+почути	O	O
+гуркіт	O	O
+ракетних	O	O
+двигунів	O	O
+у	O	O
+космосі	QUESTION	O

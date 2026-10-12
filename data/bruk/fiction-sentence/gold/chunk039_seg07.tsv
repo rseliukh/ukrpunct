@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Невже	O	CAP
+це	O	O
+все	O	O
+вік	COMMA	O
+коли	O	O
+горизонт	O	O
+починає	O	O
+потроху	O	O
+звужуватися	QUESTION	O

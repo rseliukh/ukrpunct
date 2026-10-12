@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+їхати	O	O
+на	O	O
+заробітки	COMMA	O
+залишаючи	O	O
+рідних	QUESTION	O

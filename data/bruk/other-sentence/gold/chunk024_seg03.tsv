@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Ми	O	CAP
+справді	O	O
+знаємо	COMMA	O
+що	O	O
+означає	O	O
+кожна	O	O
+заповідь	QUESTION	O

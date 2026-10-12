@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Руслан	O	CAP
+Малахов	O	CAP
+працює	O	O
+на	O	O
+державній	O	O
+шахті	O	O
+Глибока	PERIOD	CAP

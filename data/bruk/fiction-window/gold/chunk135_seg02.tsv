@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Гостя	O	CAP
+встала	O	O
+і	O	O
+подалася	O	O
+з	O	O
+викрутасом	O	O
+через	O	O
+бабине	O	O
+подвір'я	O	O
+до	O	O
+себе	O	O
+додому	PERIOD	O

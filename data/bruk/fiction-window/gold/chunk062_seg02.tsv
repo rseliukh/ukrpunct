@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Люди	O	CAP
+ще	O	O
+мали	O	O
+би	O	O
+чимсь	O	O
+у	O	O
+дворах	O	O
+гриміти	PERIOD	O

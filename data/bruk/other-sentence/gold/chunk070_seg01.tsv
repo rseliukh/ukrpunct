@@ -1,0 +1,14 @@
+token	punct_tag	cap_tag
+Перший	O	CAP
+заробіток	O	O
+мала	O	O
+у	O	O
+другому	O	O
+класі	COMMA	O
+коли	O	O
+сусідка	O	O
+попросила	O	O
+наглянути	O	O
+за	O	O
+маленькою	O	O
+донечкою	PERIOD	O

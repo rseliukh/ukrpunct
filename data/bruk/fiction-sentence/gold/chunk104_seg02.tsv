@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Знизав	O	CAP
+плечима	COMMA	O
+ніби	O	O
+вибачився	PERIOD	O

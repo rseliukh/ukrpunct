@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+буде	O	O
+внутрішня	O	O
+енергія	O	O
+від	O	O
+більшої	O	O
+кульки	O	O
+передаватися	O	O
+до	O	O
+меншої	QUESTION	O

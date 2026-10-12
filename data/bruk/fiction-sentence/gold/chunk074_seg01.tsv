@@ -1,0 +1,14 @@
+token	punct_tag	cap_tag
+Про	O	CAP
+гастрономічні	O	O
+уподобання	O	O
+цієї	O	O
+шістки	O	O
+можна	O	O
+здогадатися	O	O
+лише	O	O
+за	O	O
+їхніми	O	O
+іменами	COMMA	O
+еге	O	O
+ж	QUESTION	O

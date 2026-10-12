@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Метеоролог	O	CAP
+напружено	O	O
+дивився	O	O
+у	O	O
+вікно	COMMA	O
+схрестивши	O	O
+руки	O	O
+на	O	O
+грудях	PERIOD	O

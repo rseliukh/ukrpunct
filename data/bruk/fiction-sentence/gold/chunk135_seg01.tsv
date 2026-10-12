@@ -1,0 +1,15 @@
+token	punct_tag	cap_tag
+Пасти	O	CAP
+гнати	O	O
+ще	O	O
+рано	COMMA	O
+проте	O	O
+сонце	O	O
+схилялося	O	O
+до	O	O
+обіду	COMMA	O
+тож	O	O
+пора	O	O
+було	O	O
+рухатися	O	O
+додому	PERIOD	O

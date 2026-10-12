@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Бо	O	CAP
+понад	O	O
+усе	O	O
+любила	O	O
+подорожувати	PERIOD	O

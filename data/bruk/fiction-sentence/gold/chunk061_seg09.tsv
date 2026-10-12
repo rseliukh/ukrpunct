@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Може	O	CAP
+це	O	O
+від	O	O
+того	O	O
+в	O	O
+неї	O	O
+ломить	O	O
+кості	QUESTION	O

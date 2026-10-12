@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Стіни	O	CAP
+альтанки	O	O
+утворило	O	O
+коло	O	O
+щільно	O	O
+висаджених	O	O
+один	O	O
+попри	O	O
+одного	O	O
+кущів	O	O
+ялівцю	PERIOD	O

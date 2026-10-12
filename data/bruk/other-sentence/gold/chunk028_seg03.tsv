@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+має	O	O
+святкування	O	O
+Пасхи	O	CAP
+якийсь	O	O
+зв'язок	O	O
+із	O	O
+нашим	O	O
+щоденним	O	O
+життям	QUESTION	O

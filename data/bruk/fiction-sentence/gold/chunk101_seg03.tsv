@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Залізничний	O	CAP
+вокзал	O	O
+лишився	O	O
+праворуч	COMMA	O
+далі	COMMA	O
+далі	PERIOD	O

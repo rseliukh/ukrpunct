@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Цікаво	COMMA	CAP
+кого	O	O
+він	O	O
+потім	O	O
+підстрелив	O	O
+би	O	O
+для	O	O
+неї	QUESTION	O

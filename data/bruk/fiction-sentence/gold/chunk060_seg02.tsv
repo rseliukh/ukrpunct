@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+За	O	CAP
+що	O	O
+мені	O	O
+такі	O	O
+муки	QUESTION	O

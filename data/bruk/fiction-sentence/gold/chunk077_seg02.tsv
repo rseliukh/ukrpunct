@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Але	COMMA	CAP
+можливо	COMMA	O
+я	O	O
+викладаю	O	O
+надто	O	O
+плутано	QUESTION	O

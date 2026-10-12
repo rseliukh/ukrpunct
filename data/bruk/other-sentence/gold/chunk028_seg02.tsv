@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+заглиблюється	O	O
+у	O	O
+зміст	O	O
+цього	O	O
+свята	QUESTION	O

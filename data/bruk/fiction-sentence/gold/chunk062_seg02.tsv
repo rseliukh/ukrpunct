@@ -1,0 +1,12 @@
+token	punct_tag	cap_tag
+Крізь	O	CAP
+загуслу	O	O
+темряву	O	O
+якось	O	O
+надто	O	O
+гостро	O	O
+рвуться	O	O
+до	O	O
+неба	O	O
+церковні	O	O
+куполи	PERIOD	O

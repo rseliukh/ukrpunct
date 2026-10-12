@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Досить	O	CAP
+розбитих	O	O
+сердець	PERIOD	O

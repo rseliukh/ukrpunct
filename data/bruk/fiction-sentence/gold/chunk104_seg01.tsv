@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Невже	O	CAP
+тебе	O	O
+ніколи	O	O
+не	O	O
+зраджували	QUESTION	O

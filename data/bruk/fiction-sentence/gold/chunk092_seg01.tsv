@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Таке	O	CAP
+рідко	COMMA	O
+але	O	O
+буває	PERIOD	O

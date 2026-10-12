@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+ще	O	O
+вигадали	O	O
+ті	O	O
+друзяки	QUESTION	O

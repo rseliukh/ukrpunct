@@ -1,0 +1,16 @@
+token	punct_tag	cap_tag
+Виконував	O	CAP
+реставраційні	O	O
+роботи	O	O
+в	O	O
+Харківському	O	CAP
+художньо-історичному	O	O
+музеї	COMMA	O
+Київських	O	CAP
+музеях	O	O
+Російського	O	CAP
+та	O	O
+Західного	O	CAP
+і	O	O
+Східного	O	CAP
+мистецтва	PERIOD	O

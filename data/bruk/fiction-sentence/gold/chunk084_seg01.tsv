@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Це	O	CAP
+мама	O	O
+вирішила	QUESTION	O

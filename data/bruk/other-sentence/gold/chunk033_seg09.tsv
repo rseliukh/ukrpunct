@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Військовий	O	CAP
+взяв	O	O
+Святе	O	CAP
+Письмо	COMMA	CAP
+але	O	O
+забув	O	O
+про	O	O
+нього	PERIOD	O

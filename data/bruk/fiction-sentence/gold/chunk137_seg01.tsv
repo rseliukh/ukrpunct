@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Бабуся	O	CAP
+завжди	O	O
+все	O	O
+робила	O	O
+мовчки	PERIOD	O

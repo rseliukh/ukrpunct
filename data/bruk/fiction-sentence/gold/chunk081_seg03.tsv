@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Спершу	O	CAP
+одне	COMMA	O
+а	O	O
+потім	O	O
+друге	COMMA	O
+зіп'ялись	O	O
+на	O	O
+ноги	COMMA	O
+подибали	O	O
+до	O	O
+краю	O	O
+урвиська	PERIOD	O

@@ -1,0 +1,17 @@
+token	punct_tag	cap_tag
+Ось	O	CAP
+таку	O	O
+структуровану	O	O
+екзистенцію	O	O
+самотник	O	O
+і	O	O
+ототожнює	O	O
+з	O	O
+дійсним	O	O
+буттям	COMMA	O
+позаяк	O	O
+інші	O	O
+можливі	O	O
+співвіднесення	O	O
+йому	O	O
+невідомі	PERIOD	O

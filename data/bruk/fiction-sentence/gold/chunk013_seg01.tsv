@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Їла	O	CAP
+тільки	O	O
+тоді	COMMA	O
+коли	O	O
+годували	COMMA	O
+коли	O	O
+до	O	O
+грудей	O	O
+підносили	PERIOD	O

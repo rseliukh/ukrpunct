@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+являють	O	O
+собою	O	O
+звуки	QUESTION	O

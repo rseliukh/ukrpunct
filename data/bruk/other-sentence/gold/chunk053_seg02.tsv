@@ -1,0 +1,7 @@
+token	punct_tag	cap_tag
+І	O	CAP
+так	O	O
+до	O	O
+висушування	COMMA	O
+два	O	O
+тижні	PERIOD	O

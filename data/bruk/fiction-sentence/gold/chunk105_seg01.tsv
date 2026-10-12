@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Коли	O	CAP
+киця	O	O
+подорослішала	COMMA	O
+у	O	O
+неї	O	O
+народилося	O	O
+кошеня	PERIOD	O

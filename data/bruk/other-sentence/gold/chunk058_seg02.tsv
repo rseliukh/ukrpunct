@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Вже	O	CAP
+потім	O	O
+були	O	O
+дуб	COMMA	O
+сосна	COMMA	O
+граб	COMMA	O
+морва	COMMA	O
+горіх	PERIOD	O

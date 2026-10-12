@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Професор	O	CAP
+не	O	O
+буде	O	O
+ставити	O	O
+мені	O	O
+питання	O	O
+на	O	O
+лекціях	PERIOD	O

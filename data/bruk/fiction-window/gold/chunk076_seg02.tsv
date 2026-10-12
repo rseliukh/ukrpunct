@@ -1,0 +1,17 @@
+token	punct_tag	cap_tag
+Низькі	O	CAP
+провінційні	O	O
+хмари	O	O
+нагадували	O	O
+розповнілу	O	O
+й	O	O
+обрезклу	O	O
+вагітну	O	O
+жінку	COMMA	O
+котра	COMMA	O
+переносивши	O	O
+дитину	COMMA	O
+ніяк	O	O
+не	O	O
+може	O	O
+розродитися	PERIOD	O

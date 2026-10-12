@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+Бог	O	CAP
+приходить	O	O
+до	O	O
+неї	O	O
+в	O	O
+гості	QUESTION	O

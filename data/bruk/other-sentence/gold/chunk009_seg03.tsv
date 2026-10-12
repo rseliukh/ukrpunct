@@ -1,0 +1,8 @@
+token	punct_tag	cap_tag
+Нацрада	O	CAP
+ж	O	O
+давала	O	O
+юридичну	O	O
+оцінку	O	O
+його	O	O
+словам	PERIOD	O

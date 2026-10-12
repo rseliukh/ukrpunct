@@ -1,0 +1,14 @@
+token	punct_tag	cap_tag
+Увесь	O	CAP
+у	O	O
+мазуті	COMMA	O
+він	O	O
+копирсався	O	O
+у	O	O
+дротах	O	O
+ХТЗ	COMMA	CAP
+який	O	O
+ніяк	O	O
+не	O	O
+хотів	O	O
+заводитися	PERIOD	O

@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Данко	O	CAP
+зачинив	O	O
+двері	PERIOD	O

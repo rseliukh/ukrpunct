@@ -1,0 +1,10 @@
+token	punct_tag	cap_tag
+Той	O	CAP
+аж	O	O
+присів	O	O
+від	O	O
+болю	O	O
+й	O	O
+схопився	O	O
+за	O	O
+ногу	PERIOD	O

@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+Я	O	CAP
+не	O	O
+заздрила	COMMA	O
+навпаки	COMMA	O
+намагалася	O	O
+бути	O	O
+якомога	O	O
+ближче	O	O
+біля	O	O
+неї	PERIOD	O

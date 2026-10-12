@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+А	O	CAP
+як	O	O
+ти	O	O
+гадаєш	COMMA	O
+чому	O	O
+осмій	O	O
+має	O	O
+вигляд	O	O
+порошку	O	O
+в	O	O
+цій	O	O
+таблиці	QUESTION	O

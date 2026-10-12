@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Голос	COMMA	CAP
+що	O	O
+просить	O	O
+сніг	O	O
+прийти	PERIOD	O

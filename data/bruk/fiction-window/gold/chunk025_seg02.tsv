@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+Образ	O	CAP
+дівчини	O	O
+був	O	O
+настільки	O	O
+реальним	COMMA	O
+що	O	O
+Андрій	O	CAP
+засумнівався	PERIOD	O

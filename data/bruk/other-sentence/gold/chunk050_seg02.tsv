@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Пересаджують	O	CAP
+сіянці	O	O
+моркви	O	O
+віком	O	O
+до	O	O
+двадцяти	O	O
+діб	O	O
+у	O	O
+фазі	O	O
+одного-трьох	O	O
+справжніх	O	O
+листків	PERIOD	O

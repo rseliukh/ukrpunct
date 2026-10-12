@@ -1,0 +1,5 @@
+token	punct_tag	cap_tag
+А	O	CAP
+ви	O	O
+як	O	O
+думали	QUESTION	O

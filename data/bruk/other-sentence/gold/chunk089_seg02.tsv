@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Коли	O	CAP
+можливий	O	O
+теплообмін	QUESTION	O

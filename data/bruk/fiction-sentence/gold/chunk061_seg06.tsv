@@ -1,0 +1,6 @@
+token	punct_tag	cap_tag
+Чи	O	CAP
+мама	O	O
+за	O	O
+нами	O	O
+сумує	QUESTION	O

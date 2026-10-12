@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Ви	O	CAP
+з	O	O
+Росії	QUESTION	CAP

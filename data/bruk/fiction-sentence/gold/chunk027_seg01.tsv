@@ -1,0 +1,11 @@
+token	punct_tag	cap_tag
+А	O	CAP
+що	COMMA	O
+як	O	O
+піти	O	O
+перевірити	COMMA	O
+чи	O	O
+на	O	O
+місці	O	O
+його	O	O
+мерседес	QUESTION	O

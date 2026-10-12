@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+Чому	O	CAP
+замість	O	O
+традиційних	O	O
+українських	O	O
+Просвіт	O	CAP
+радянська	O	O
+влада	O	O
+запровадила	O	O
+мережу	O	O
+клубів	O	O
+та	O	O
+хат-читалень	QUESTION	O

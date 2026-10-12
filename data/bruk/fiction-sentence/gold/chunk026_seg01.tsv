@@ -1,0 +1,17 @@
+token	punct_tag	cap_tag
+Мама	O	CAP
+їх	O	O
+і	O	O
+ногою	O	O
+під	O	O
+ребра	O	O
+копала	COMMA	O
+і	O	O
+патиком	O	O
+лупцювали	COMMA	O
+й	O	O
+крижаною	O	O
+водою	O	O
+із	O	O
+криниці	O	O
+поливала	PERIOD	O

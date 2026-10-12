@@ -1,0 +1,4 @@
+token	punct_tag	cap_tag
+Може	COMMA	CAP
+щось	O	O
+продати	QUESTION	O

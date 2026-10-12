@@ -1,0 +1,16 @@
+token	punct_tag	cap_tag
+Ми	O	CAP
+стерли	O	O
+пил	O	O
+і	O	O
+бруд	O	O
+з	O	O
+ілюмінатора	O	O
+й	O	O
+обсіли	O	O
+його	COMMA	O
+мов	O	O
+мухи	O	O
+банку	O	O
+з	O	O
+варенням	PERIOD	O

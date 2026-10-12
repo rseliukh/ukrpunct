@@ -1,0 +1,9 @@
+token	punct_tag	cap_tag
+За	O	CAP
+яких	O	O
+умов	O	O
+розвивалася	O	O
+культура	O	O
+у	O	O
+двадцяті	O	O
+роки	QUESTION	O

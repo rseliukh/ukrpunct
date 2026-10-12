@@ -1,0 +1,13 @@
+token	punct_tag	cap_tag
+І	O	CAP
+ви	O	O
+збирали	O	O
+їх	O	O
+із	O	O
+вікон	O	O
+і	O	O
+виносили	O	O
+на	O	O
+берег	COMMA	O
+на	O	O
+смітник	PERIOD	O

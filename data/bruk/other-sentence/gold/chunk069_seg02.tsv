@@ -1,0 +1,14 @@
+token	punct_tag	cap_tag
+Що	O	CAP
+ж	O	O
+відбувається	O	O
+після	O	O
+того	COMMA	O
+як	O	O
+диктатора	O	O
+повалено	COMMA	O
+а	O	O
+люди	O	O
+йдуть	O	O
+із	O	O
+площі	QUESTION	O
