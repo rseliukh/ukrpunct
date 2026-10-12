@@ -213,7 +213,7 @@ release that introduced or last changed it.
   Changes to the source texts: selection of sentences, ellipses replaced with
   periods, segmentation into windows / sentences, and, in the model input,
   lowercasing and removal of punctuation.
-- **Code** (`src/`): TODO (MIT / Apache-2.0).
+- **Code** (`src/`): MIT, see [`LICENSE`](LICENSE).
 
 ## Citation
 
