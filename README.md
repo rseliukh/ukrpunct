@@ -1,5 +1,7 @@
 # UkrPunct
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23317680.svg)](https://doi.org/10.5281/zenodo.23317680)
+
 Test sets and evaluation scripts for automatic punctuation and capitalization
 restoration in Ukrainian text.
 
@@ -248,7 +250,7 @@ ITiA 2026 theses; cite them if you refer to those results.
   version   = {1.0},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.TODO},
+  doi       = {10.5281/zenodo.23317680},
   url       = {https://github.com/rseliukh/ukrpunct}
 }
 
