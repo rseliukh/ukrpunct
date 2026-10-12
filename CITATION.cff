@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use these test sets, please cite them as below, together with the source corpus (BRUK)."
+type: dataset
+title: "UkrPunct-BRUK: a test set for Ukrainian punctuation and capitalization restoration"
+version: "1.0"
+date-released: 2026-10-12
+doi: 10.5281/zenodo.23317680
+license: CC-BY-NC-SA-4.0
+repository-code: "https://github.com/rseliukh/ukrpunct"
+url: "https://github.com/rseliukh/ukrpunct"
+abstract: >-
+  Test sets and an evaluation script for automatic punctuation and
+  capitalization restoration in Ukrainian text, derived from the Brown Corpus
+  of Ukrainian (BRUK). Track A: classes O, COMMA, PERIOD, QUESTION plus
+  capitalization; four sets with window (up to 200 words of whole sentences)
+  and single-sentence segmentation. The evaluation code is under the MIT license.
+keywords:
+  - Ukrainian
+  - punctuation restoration
+  - capitalization restoration
+  - benchmark
+  - BRUK
+authors:
+  - family-names: Seliukh
+    given-names: Ruslan
+    orcid: "https://orcid.org/0000-0003-2230-8746"
+    affiliation: "Institute of Information Technologies and Systems, Kyiv, Ukraine"
+  - family-names: Sazhok
+    given-names: Mykola
+    orcid: "https://orcid.org/0000-0003-1169-6851"
+    affiliation: "Institute of Information Technologies and Systems, Kyiv, Ukraine"
+  - family-names: Yukhymenko
+    given-names: Oleksandr
+    affiliation: "Institute of Information Technologies and Systems, Kyiv, Ukraine"
+references:
+  - type: conference-paper
+    title: "Creating a POS Gold Standard Corpus of Modern Ukrainian"
+    authors:
+      - family-names: Starko
+        given-names: Vasyl
+      - family-names: Rysin
+        given-names: Andriy
+    collection-title: "Proceedings of the Second Ukrainian Natural Language Processing Workshop (UNLP)"
+    year: 2023
+    start: 91
+    end: 95
+    url: "https://github.com/brown-uk/corpus"
