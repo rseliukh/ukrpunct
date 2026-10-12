@@ -111,12 +111,32 @@ token	punct_tag	cap_tag
    segment with the same `<id>`, into a directory of your choice:
    - the `token` column must reproduce the input tokens one-to-one. A model
      that rewrites words (typical for LLMs) must be aligned back to the input
-     first. In the baselines, alignment is exact word matching after
-     normalization (lowercasing, apostrophe variants, `ґ`→`г`; TODO: check against the runner); input words without a
-     match get `O` and no `CAP`. Segments with a different number of tokens
-     are excluded by the scorer and reported;
-   - marks outside the four classes must be mapped to them. The baselines use
-     this deterministic mapping: TODO (e.g. `!` → ?, `;` → ?, `:` → ?, `…` → `PERIOD`).
+     first. Segments with a different number of tokens are excluded by the
+     scorer and reported;
+   - the gold data contain only `COMMA`, `PERIOD` and `QUESTION`, but a model
+     may output other marks; map them to the four classes before scoring.
+
+How the LLM baselines were converted to the gold format:
+
+- **Alignment.** The model output is split into words (runs of letters or
+  digits, possibly joined by a hyphen or an apostrophe: `п'ять`, `будь-який`,
+  `60-х`), and the sequence of normalized input words is aligned with the
+  sequence of normalized output words (`difflib.SequenceMatcher`); only exactly
+  matching words are used. Normalization, applied for matching only: Unicode
+  NFKC, case folding, removal of all apostrophe variants
+  (`' ’ ʼ ‘ ` ´ ′`), `ґ`→`г`, and stripping of hyphens at word edges.
+  Input words without a match get `O` and no `CAP`.
+- **Capitalization:** `CAP` if the matched output word starts with an
+  uppercase letter.
+- **Punctuation:** the first non-space character after the matched output
+  word, mapped as follows (anything else, including quotes and brackets,
+  gives `O`):
+
+  | Output mark | Class |
+  |---|---|
+  | `,` `;` `:` `–` `—` `-` | `COMMA` |
+  | `.` `!` `…` | `PERIOD` |
+  | `?` | `QUESTION` |
 3. Score (Python ≥ 3.8, standard library only):
 
 ```bash
@@ -217,7 +237,9 @@ release that introduced or last changed it.
 
 ## Citation
 
-If you use the test sets, please cite the dataset, the theses and BRUK:
+If you use the test sets, please cite the dataset (with the release you used)
+and the source corpus, BRUK. The baseline results above are described in the
+ITiA 2026 theses; cite them if you refer to those results.
 
 ```bibtex
 @misc{seliukh2026ukrpunct,
@@ -230,15 +252,6 @@ If you use the test sets, please cite the dataset, the theses and BRUK:
   url       = {https://github.com/rseliukh/ukrpunct}
 }
 
-@inproceedings{seliukh2026itia,
-  author    = {Seliukh, R. and Sazhok, M. and Yukhymenko, O.},
-  title     = {Punctuation and Capitalization Restoration for {Ukrainian}: Specialized Models vs. Large Language Models},
-  booktitle = {Інформаційні технології і автоматизація -- 2026},
-  address   = {Odesa, Ukraine},
-  year      = {2026},
-  pages     = {TODO}
-}
-
 @inproceedings{starko2023bruk,
   author    = {Starko, Vasyl and Rysin, Andriy},
   title     = {Creating a {POS} Gold Standard Corpus of Modern {Ukrainian}},
@@ -246,5 +259,14 @@ If you use the test sets, please cite the dataset, the theses and BRUK:
   address   = {Dubrovnik, Croatia},
   year      = {2023},
   pages     = {91--95}
+}
+
+@inproceedings{seliukh2026itia,
+  author    = {Seliukh, R. and Sazhok, M. and Yukhymenko, O.},
+  title     = {Punctuation and Capitalization Restoration for {Ukrainian}: Specialized Models vs. Large Language Models},
+  booktitle = {Інформаційні технології і автоматизація -- 2026},
+  address   = {Odesa, Ukraine},
+  year      = {2026},
+  pages     = {TODO}
 }
 ```
